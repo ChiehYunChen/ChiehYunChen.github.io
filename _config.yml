@@ -55,9 +55,9 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-# Social Sharing
-twitter:
-  username               : &twitter
+# # Social Sharing
+# twitter:
+#   username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -85,7 +85,7 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.tw/citations?user=GyMuDGAAAAAJ&hl=zh-TW&oi=ao"
   email            : cychenisme@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
