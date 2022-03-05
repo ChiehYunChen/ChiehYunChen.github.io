@@ -87,7 +87,7 @@ author:
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.tw/citations?user=GyMuDGAAAAAJ&hl=zh-TW&oi=ao"
-  email            : cychen.ee09g@nctu.edu.tw
+  cychen.ee09g@nctu.edu.tw            : cychen.ee09g@nctu.edu.tw
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+#   github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/chieh-yun-chen-1339a6181/"
-  orcid            : "https://orcid.org/0000-0002-7412-7894"
+#   orcid            : "https://orcid.org/0000-0002-7412-7894"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
