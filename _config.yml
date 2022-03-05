@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chieh-Yun Chen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "AI Researcher, cooking interesting ideas"
+  location         : "Taipei, Taiwan"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.tw/citations?user=GyMuDGAAAAAJ&hl=zh-TW&oi=ao"
-  cychen.ee09g@nctu.edu.tw            : cychen.ee09g@nctu.edu.tw
+  email            : cychen.ee09g@nctu.edu.tw
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
