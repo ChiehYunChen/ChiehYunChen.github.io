@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI researcher, cooking interesting ideas. I received my master's degree from the Institute of Electronics at National Yang Ming Chiao Tung University in 2021 and Bachelor's degree from the Department of Electrophysics at National Chiao Tung University in 2020, advised by [Prof. Wen-Huang Cheng](http://aimmlab.nctu.edu.tw/whcheng/index.html). My research interests include multimedia and computer vision. My research recently focuses on 2D image-based and video-based multi-pose virtual try-on, and receives 1st Place Award in the 2020 CVPR LIP Challenge (Multi-pose Virtual Try-on Challenge). My works have appeared in top-tier conferences and journals such as ICCV, ACMMM, TNNLS, and ACM CSUR. I've served as the invited reviewer for IEEE TMM, IEEE TCSVT, and ACM ToMM.
+I am an AI researcher, cooking interesting ideas. 
+
+I received my master's degree from the Institute of Electronics at National Yang Ming Chiao Tung University in 2021 and Bachelor's degree from the Department of Electrophysics at National Chiao Tung University in 2020, advised by [Prof. Wen-Huang Cheng](http://aimmlab.nctu.edu.tw/whcheng/index.html). 
+
+My research interests include multimedia and computer vision. My research recently focuses on 2D image-based and video-based multi-pose virtual try-on, and receives 1st Place Award in the 2020 CVPR LIP Challenge (Multi-pose Virtual Try-on Challenge). 
+
+My works have appeared in top-tier conferences and journals such as ICCV, ACMMM, TNNLS, and ACM CSUR. I've served as the invited reviewer for IEEE TMM, IEEE TCSVT, and ACM ToMM.
 
 <!-- A data-driven personal website
 ======
