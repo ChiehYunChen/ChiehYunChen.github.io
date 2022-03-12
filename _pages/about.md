@@ -74,4 +74,4 @@ My works have appeared in top-tier conferences and journals such as ICCV, ACMMM,
 
 - Teaching Assistant
 
-  * 2020 Fall Semester | Applied Computer Vision Course [Graduate Course]
+  * Applied Computer Vision Course [Graduate Course], 2020 Fall Semester
