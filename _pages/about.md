@@ -20,7 +20,7 @@ My works have appeared in top-tier conferences and journals such as ICCV, ACMMM,
 
 ## Education
 - 2020-2021, M.S., Institute of Electronics, National Yang Ming Chiao Tung University, Taiwan
-- 2016-2020, B.S., Department of Electrophysics, National Chiao Tung University, Taiwan | **Ranked the 1<sup>st</sup> place in class**
+- 2016-2020, B.S., Department of Electrophysics, National Chiao Tung University, Taiwan [**Ranked the 1<sup>st</sup> place in class**]
 
 ## Publications
 - **FashionMirror: Co-attention Feature-remapping Virtual Try-on with Sequential Template Poses** 
