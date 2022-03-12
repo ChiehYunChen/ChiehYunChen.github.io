@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI researcher, cooking interesting ideas. Feel free to contact me. I am open for cooperation!
+I am an AI researcher, cooking interesting ideas. 
+Feel free to contact me [cychenisme@gmail.com](cychenisme@gmail.com). I am open for cooperation!
 
 I received the MS from the Institute of Electronics at National Yang Ming Chiao Tung University in 2021, advised by [Prof. Wen-Huang Cheng](http://aimmlab.nctu.edu.tw/whcheng/index.html) and BS from the Department of Electrophysics at National Chiao Tung University in 2020. 
 
