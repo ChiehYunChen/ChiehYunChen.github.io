@@ -18,6 +18,10 @@ My works have appeared in top-tier conferences and journals such as ICCV, ACMMM,
 
 <!-- A data-driven personal website -->
 
+## Education
+- 2020-2021, M.S., Institute of Electronics, National Yang Ming Chiao Tung University, Taiwan
+- 2016-2020, B.S., Department of Electrophysics, National Chiao Tung University, Taiwan [**Rank the 1<sup>st</sup> place in class**]
+
 ## Publications
 - **FashionMirror: Co-attention Feature-remapping Virtual Try-on with Sequential Template Poses** 
 <br> **Chieh-Yun Chen**, Ling Lo, Pin-Jui Huang, Hong-Han Shuai, and Wen-Huang Cheng
