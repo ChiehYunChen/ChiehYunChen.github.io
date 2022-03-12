@@ -65,3 +65,6 @@ My works have appeared in top-tier conferences and journals such as ICCV, ACMMM,
 
 - **Best Paper Award** in IPPR Conference on Computer Vision, Graphics, and Image Processing (CVGIP), 2019
 
+## Academic Services
+
+- Journal Reviewer | IEEE Transactions on Multimedia (TMM), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), and ACM Transactions on Multimedia Computing, Communications, and Applications (ToMM)
