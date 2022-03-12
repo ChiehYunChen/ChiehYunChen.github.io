@@ -26,30 +26,30 @@ My works have appeared in top-tier conferences and journals such as ICCV, ACMMM,
 - **FashionMirror: Co-attention Feature-remapping Virtual Try-on with Sequential Template Poses** 
 <br> **Chieh-Yun Chen**, Ling Lo, Pin-Jui Huang, Hong-Han Shuai, and Wen-Huang Cheng
 <br> International Comference on Computer Vision (ICCV), 2021 | Oral, oral acceptance rate=3%
-<br> [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_FashionMirror_Co-Attention_Feature-Remapping_Virtual_Try-On_With_Sequential_Template_Poses_ICCV_2021_paper.pdf) 
+<br> [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_FashionMirror_Co-Attention_Feature-Remapping_Virtual_Try-On_With_Sequential_Template_Poses_ICCV_2021_paper.pdf) 
 \| [Supplementary materials](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Chen_FashionMirror_Co-Attention_Feature-Remapping_ICCV_2021_supplemental.pdf) 
 \| [Oral Video](https://youtu.be/1qPQWZmUbow) 
-\| [Github Demo](https://github.com/FashionMirror/FashionMirror)
+\| [Github Demo](https://github.com/FashionMirror/FashionMirror)]
 
 - **Fashion Meets Computer Vision: A Survey** 
 <br> Wen-Huang Cheng, Sijie Song, **Chieh-Yun Chen**, Shintami Chusnul Hidayati, and Jiaying Liu
 <br> ACM Computing Surveys (ACM CSUR), 2021 
-<br> [Paper](https://dl.acm.org/doi/pdf/10.1145/3447239) 
+<br> [[Paper](https://dl.acm.org/doi/pdf/10.1145/3447239)] 
 
 - **Template-free Try-on Image Synthesis via Semantic-guided Optimization** 
 <br> Chien-Lung Chou, **Chieh-Yun Chen**, Chia-Wei Hsieh, Hong-Han Shuai, Jiaying Liu, and Wen-Huang Cheng
 <br> IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021 
-<br> [Paper](https://arxiv.org/pdf/2102.03503.pdf) 
+<br> [[Paper](https://arxiv.org/pdf/2102.03503.pdf)]
 
 - **FashionOn: Semantic-guided Image-based Virtual Try-on with Detailed Human and Clothing Information** 
 <br> Chia-Wei Hsieh, **Chieh-Yun Chen**, Chien-Lung Chou, Hong-Han Shuai, Jiaying Liu, and Wen-Huang Cheng
 <br> ACM International Conference on Multimedia (ACMMM), 2019 | Oral, acceptance rate=26.5%
-<br> [Paper](http://39.96.165.147/Pub%20Files/2019/hcw_mm19.pdf) 
+<br> [[Paper](http://39.96.165.147/Pub%20Files/2019/hcw_mm19.pdf)]
 
 - **Fit-me: Image-based virtual try-on with arbitrary poses** 
 <br> Chia-Wei Hsieh, **Chieh-Yun Chen**, Chien-Lung Chou, Hong-Han Shuai, Jiaying Liu, and Wen-Huang Cheng
 <br> International Conference on Image Processing (ICIP), 2019 
-<br> [Paper](http://39.96.165.147/Pub%20Files/2019/hcw_mm19.pdf) 
+<br> [[Paper](http://39.96.165.147/Pub%20Files/2019/hcw_mm19.pdf)]
 
 ## Awards
 
@@ -57,9 +57,8 @@ My works have appeared in top-tier conferences and journals such as ICCV, ACMMM,
 
 - **Future Tech Award**, Ministry of Science and Technology of Taiwan (MOST), 2021
 
-- **The 1<sup>st</sup> Place Award** in the Image-based Multi-pose Virtual Try-on Challenge of the 4<sup>th</sup> Look Into Person (LIP) Challenge in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020
-<br> **Chieh-Yun Chen**, Hong-Han Shuai, and Wen-Huang Cheng
-<br> [Oral Video](https://www.youtube.com/watch?v=zloK9g6RvYk)
+- **The 1<sup>st</sup> Place Award** in the Image-based Multi-pose Virtual Try-on Challenge of the 4<sup>th</sup> Look Into Person (LIP) Challenge in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020 | **Chieh-Yun Chen**, Hong-Han Shuai, and Wen-Huang Cheng
+<br> [[Oral Video](https://www.youtube.com/watch?v=zloK9g6RvYk)]
 
 - **College Student Research Creativity Award**, Ministry of Science and Technology (MOST), 2020
 
