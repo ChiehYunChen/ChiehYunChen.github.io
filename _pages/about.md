@@ -49,7 +49,7 @@ My works have appeared in top-tier conferences and journals such as ICCV, ACMMM,
 - **Fit-me: Image-based virtual try-on with arbitrary poses** 
 <br> Chia-Wei Hsieh, **Chieh-Yun Chen**, Chien-Lung Chou, Hong-Han Shuai, Jiaying Liu, and Wen-Huang Cheng
 <br> International Conference on Image Processing (ICIP), 2019 
-<br> [[Paper](http://39.96.165.147/Pub%20Files/2019/hcw_mm19.pdf)]
+<br> [[Paper](https://ieeexplore.ieee.org/document/8803681)]
 
 ## Awards
 
