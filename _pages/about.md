@@ -71,3 +71,7 @@ My works have appeared in top-tier conferences and journals such as ICCV, ACMMM,
   * IEEE Transactions on Multimedia (TMM)
   * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   * ACM Transactions on Multimedia Computing, Communications, and Applications (ToMM)
+
+- Teaching Assistant
+
+  * 2020 Fall Semester | Applied Computer Vision Course [Graduate Course]
