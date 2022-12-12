@@ -11,7 +11,7 @@ redirect_from:
 I am an AI researcher, cooking interesting ideas. 
 <br> Feel free to contact me (<cychenisme@gmail.com>). I am open for cooperation!
 
-I received the MS from the Institute of Electronics at National Yang Ming Chiao Tung University in 2021, advised by [Prof. Wen-Huang Cheng](http://aimmlab.nctu.edu.tw/whcheng/index.html) and BS from the Department of Electrophysics at National Chiao Tung University in 2020. 
+I received the MS from the Institute of Electronics at National (Yang Ming) Chiao Tung University in 2021, advised by [Prof. Wen-Huang Cheng](http://aimmlab.nctu.edu.tw/whcheng/index.html) and [Prof. Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/) and BS from the Department of Electrophysics at National Chiao Tung University in 2020. 
 
 My research interests include multimedia and computer vision. My research recently focuses on 2D image-based and video-based multi-pose virtual try-on, and receives 1<sup>st</sup> Place Award in the 2020 CVPR LIP Challenge (Track: Multi-pose Virtual Try-on Challenge). 
 
@@ -53,6 +53,9 @@ My works have appeared in top-tier conferences and journals such as ICCV, ACMMM,
 <br> [[Paper](https://ieeexplore.ieee.org/document/8803681)]
 
 ## Awards
+
+- **Master Thesis Award**
+  -  IEEE Taipei Section
 
 - **Outstanding Student Research Reward**, National Yang Ming Chiao Tung University (NYCU), 2021
 
