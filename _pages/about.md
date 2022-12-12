@@ -55,7 +55,13 @@ My works have appeared in top-tier conferences and journals such as ICCV, ACMMM,
 ## Awards
 
 - **Master Thesis Award**
-  -  IEEE Taipei Section
+  -  IEEE Taipei Section, 2021
+  -  Institution of Engineering and Technology (IET), 2021
+  -  Chinese Image Processing and Pattern Recognition Society (IPPR), 2021
+  -  The Chinese Institute of Electrical Engineering (CIEE), 2021
+  -  Taiwanese Association for Artificial Intelligence (TAAI), 2021
+  -  Taiwan Association for Web Intelligence Consortium (WIC), 2021
+  -  Institute of Information & Computing Machinery (IICM), 2021
 
 - **Outstanding Student Research Reward**, National Yang Ming Chiao Tung University (NYCU), 2021
 
