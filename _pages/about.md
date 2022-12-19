@@ -85,7 +85,7 @@ My works have appeared in top-tier conferences and journals such as ICCV, ACMMM,
 
 - Teaching Assistant
 
-  * Applied Computer Vision Course [Graduate Course], 2020 Fall Semester
+  * NCTU, IEE5741 Applied Computer Vision [English Medium Course], Fall 2020, Instructor: Wen-Huang Cheng
 
 ## Work Experience
 
