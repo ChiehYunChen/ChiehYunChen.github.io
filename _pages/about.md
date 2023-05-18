@@ -19,6 +19,20 @@ My works have appeared in top-tier conferences and journals such as ICCV, ACMMM,
 
 <!-- A data-driven personal website -->
 
+## Recent News
+- (Apr. 2023) I am serving as a reviewer for 1 paper from [TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
+- (Mar. 2023) I am serving as a reviewer for 1 paper from [TOMM](https://dl.acm.org/journal/tomm)
+- (Feb. 2023) I am serving as a reviewer for 1 paper from [TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
+- (Jul. 2022) I am serving as a reviewer for 2 papers from [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
+- (Jul. 2022) I am serving as a reviewer for 1 papers from [TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
+- (Nov. 2021) I am serving as a reviewer for 1 papers from [TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
+- (Aug. 2021) I am serving as a reviewer for 1 papers from [TOMM](https://dl.acm.org/journal/tomm)
+- (Jul. 2021) I am serving as a reviewer for 1 papers from [TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
+- (Jul. 2021) I am serving as a reviewer for 1 papers from [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
+- (May. 2021) I am serving as a reviewer for 1 papers from [TOMM](https://dl.acm.org/journal/tomm)
+- (Mar. 2021) I am serving as a reviewer for 2 papers from [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
+- (Jan. 2021) I am serving as a reviewer for 2 papers from [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
+
 ## Education
 - 2020-2021, M.S., Institute of Electronics, National Yang Ming Chiao Tung University, Taiwan
 - 2016-2020, B.S., Department of Electrophysics, National Chiao Tung University, Taiwan [**Ranked the 1<sup>st</sup> place in class**]
