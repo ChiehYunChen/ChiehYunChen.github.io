@@ -23,15 +23,20 @@ My works have appeared in top-tier conferences and journals such as ICCV, ACMMM,
 - [Apr. 2023] Served as a reviewer for [TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
 - [Mar. 2023] Served as a reviewer for [TOMM](https://dl.acm.org/journal/tomm)
 - [Feb. 2023] Served as a reviewer for [TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
+- [Nov. 2022] 🏆 Won the Excellent Award in [Mobilehero Networked Future Challenge ($1,950)](https://mobilehero.com/en/iot)
+- [Jul. 2022] 🙏 Supported by the [Google for Startups Cloud Program ($2,000)](https://cloud.google.com/startup)
 - [Jul. 2022] Served as a reviewer for [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
 - [Jul. 2022] Served as a reviewer for [TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
-- [Nov. 2022] Served as a reviewer for [TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
+- [May. 2022] 🙏 Supported by the [Center for Industry-Academia Collaboration (CIAC) of NYCU](https://en.flaps.ord.nycu.edu.tw/AboutUs/AboutUs)
+- [May. 2022] 🙏 Supported by the [U-start Plan for Innovation and Entrepreneureship ($11,373)](https://ustart.yda.gov.tw)
+- [Apr. 2022] 🙏 Supported by the [Garage+](https://garageplus.asia/en/)
+<!-- - [Nov. 2021] Served as a reviewer for [TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
 - [Aug. 2021] Served as a reviewer for [TOMM](https://dl.acm.org/journal/tomm)
 - [Jul. 2021] Served as a reviewer for [TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
 - [Jul. 2021] Served as a reviewer for [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
 - [May. 2021] Served as a reviewer for [TOMM](https://dl.acm.org/journal/tomm)
 - [Mar. 2021] Served as a reviewer for [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
-- [Jan. 2021] Served as a reviewer for [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
+- [Jan. 2021] Served as a reviewer for [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046) -->
 
 ## Education
 - 2020-2021, M.S., Institute of Electronics, National Yang Ming Chiao Tung University, Taiwan
