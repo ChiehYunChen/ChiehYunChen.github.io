@@ -15,7 +15,7 @@ I received the MS from the Institute of Electronics at National (Yang Ming) Chia
 
 My research interests include multimedia and computer vision. My research recently focuses on 2D image-based and video-based multi-pose virtual try-on, and receives 1<sup>st</sup> Place Award in the 2020 CVPR LIP Challenge (Track: Multi-pose Virtual Try-on Challenge). 
 
-My works have appeared in top-tier conferences and journals such as ICCV, ACMMM, TNNLS, and ACM CSUR. I've served as the invited reviewer for [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385), [IEEE TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), [IEEE TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76), and [ACM TOMM](https://dl.acm.org/journal/tomm).
+My works have appeared in top-tier conferences and journals such as CVPR, ICCV, ACMMM, TNNLS, and ACM CSUR. I've served as the invited reviewer for [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385), [IEEE TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), [IEEE TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76), and [ACM TOMM](https://dl.acm.org/journal/tomm).
 
 <!-- A data-driven personal website -->
 
