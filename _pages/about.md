@@ -15,7 +15,7 @@ I received the MS from the Institute of Electronics at National (Yang Ming) Chia
 
 My research interests include multimedia and computer vision. My research recently focuses on 2D image-based and video-based multi-pose virtual try-on, and receives 1<sup>st</sup> Place Award in the 2020 CVPR LIP Challenge (Track: Multi-pose Virtual Try-on Challenge). 
 
-My works have appeared in top-tier conferences and journals such as ICCV, ACMMM, TNNLS, and ACM CSUR. I've served as the invited reviewer for IEEE TMM, IEEE TCSVT, and ACM ToMM.
+My works have appeared in top-tier conferences and journals such as ICCV, ACMMM, TNNLS, and ACM CSUR. I've served as the invited reviewer for [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385), [IEEE TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), [IEEE TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76), and [ACM TOMM](https://dl.acm.org/journal/tomm).
 
 <!-- A data-driven personal website -->
 
@@ -27,16 +27,15 @@ My works have appeared in top-tier conferences and journals such as ICCV, ACMMM,
 - [Jul. 2022] 🙏 Supported by the [Google for Startups Cloud Program ($2,000)](https://cloud.google.com/startup)
 - [Jul. 2022] Served as a reviewer for [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
 - [Jul. 2022] Served as a reviewer for [TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
-- [May. 2022] 🙏 Supported by the [Center for Industry-Academia Collaboration (CIAC) of NYCU](https://en.flaps.ord.nycu.edu.tw/AboutUs/AboutUs)
-- [May. 2022] 🙏 Supported by the [U-start Plan for Innovation and Entrepreneureship ($11,373)](https://ustart.yda.gov.tw)
+- [May. 2022] 🙏 Supported by the [Center for Industry-Academia Collaboration (CIAC) of NYCU](https://en.flaps.ord.nycu.edu.tw/AboutUs/AboutUs) and [U-start Plan for Innovation and Entrepreneureship ($11,373)](https://ustart.yda.gov.tw)
 - [Apr. 2022] 🙏 Supported by the [Garage+](https://garageplus.asia/en/)
-<!-- - [Nov. 2021] Served as a reviewer for [TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
+- [Nov. 2021] Served as a reviewer for [TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
 - [Aug. 2021] Served as a reviewer for [TOMM](https://dl.acm.org/journal/tomm)
 - [Jul. 2021] Served as a reviewer for [TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
 - [Jul. 2021] Served as a reviewer for [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
 - [May. 2021] Served as a reviewer for [TOMM](https://dl.acm.org/journal/tomm)
 - [Mar. 2021] Served as a reviewer for [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
-- [Jan. 2021] Served as a reviewer for [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046) -->
+- [Jan. 2021] Served as a reviewer for [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
 
 ## Education
 - 2020-2021, M.S., Institute of Electronics, National Yang Ming Chiao Tung University, Taiwan
@@ -105,9 +104,10 @@ My works have appeared in top-tier conferences and journals such as ICCV, ACMMM,
 
 - Journal Reviewer
 
-  * IEEE Transactions on Multimedia (TMM): 2021, 2022
+  * IEEE Transactions on Neural Networks and Learning Systems (TNNLS): 2023
   * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT): 2021, 2022, 2023
   * ACM Transactions on Multimedia Computing, Communications, and Applications (ToMM): 2021, 2023
+  * IEEE Transactions on Multimedia (TMM): 2021, 2022
 
 
 - Teaching Assistant
