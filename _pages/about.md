@@ -70,7 +70,13 @@ My works have appeared in top-tier conferences and journals such as ICCV, ACMMM,
 
 ## Awards
 
-- **Master Thesis Award**
+- **[Startup] Excellent Award ($1,950)**, Mobilehero Networked Future Challenge, 2022
+
+- **[Startup] Google for Startups Cloud Program ($2,000)**, Google Cloud, 2022
+
+- **[Startup] U-start Plan for Innovation and Entrepreneureship ($11,373)**, Ministry of Education in Taiwan, 2022
+
+- **[Research] Master Thesis Award**
   -  IEEE Taipei Section, 2021
   -  Institution of Engineering and Technology (IET), 2021
   -  Chinese Image Processing and Pattern Recognition Society (IPPR), 2021
@@ -79,16 +85,16 @@ My works have appeared in top-tier conferences and journals such as ICCV, ACMMM,
   -  Taiwan Association for Web Intelligence Consortium (WIC), 2021
   -  Institute of Information & Computing Machinery (IICM), 2021
 
-- **Outstanding Student Research Reward**, National Yang Ming Chiao Tung University (NYCU), 2021
+- **[Research] Outstanding Student Research Reward ($1,550)**, National Yang Ming Chiao Tung University (NYCU), 2021
 
-- **Future Tech Award**, Ministry of Science and Technology of Taiwan (MOST), 2021
+- **[Research] Future Tech Award ($325)**, Ministry of Science and Technology of Taiwan (MOST), 2021
 
-- **The 1<sup>st</sup> Place Award** in the Image-based Multi-pose Virtual Try-on Challenge of the 4<sup>th</sup> Look Into Person (LIP) Challenge in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020 | **Chieh-Yun Chen**, Hong-Han Shuai, and Wen-Huang Cheng
+- **[Research] The 1<sup>st</sup> Place Award** in the Image-based Multi-pose Virtual Try-on Challenge of the 4<sup>th</sup> Look Into Person (LIP) Challenge in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020 | **Chieh-Yun Chen**, Hong-Han Shuai, and Wen-Huang Cheng
 <br> [[Oral Video](https://www.youtube.com/watch?v=zloK9g6RvYk)]
 
-- **College Student Research Creativity Award**, Ministry of Science and Technology (MOST), 2020
+- **[Research] College Student Research Creativity Award ($2,200)**, Ministry of Science and Technology (MOST), 2020
 
-- **Best Paper Award** in IPPR Conference on Computer Vision, Graphics, and Image Processing (CVGIP), 2019
+- **[Research] Best Paper Award** in IPPR Conference on Computer Vision, Graphics, and Image Processing (CVGIP), 2019
 
 ## Academic Services
 
