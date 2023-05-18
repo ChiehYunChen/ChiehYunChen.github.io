@@ -19,7 +19,7 @@ My works have appeared in top-tier conferences and journals such as ICCV, ACMMM,
 
 <!-- A data-driven personal website -->
 
-## Recent News
+## Recent News :fire:
 - (Apr. 2023) I am serving as a reviewer for 1 paper from [TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
 - (Mar. 2023) I am serving as a reviewer for 1 paper from [TOMM](https://dl.acm.org/journal/tomm)
 - (Feb. 2023) I am serving as a reviewer for 1 paper from [TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
@@ -92,9 +92,9 @@ My works have appeared in top-tier conferences and journals such as ICCV, ACMMM,
 
 - Journal Reviewer
 
-  * IEEE Transactions on Multimedia (TMM)
-  * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-  * ACM Transactions on Multimedia Computing, Communications, and Applications (ToMM)
+  * IEEE Transactions on Multimedia (TMM): 2021, 2022
+  * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT): 2021, 2022, 2023
+  * ACM Transactions on Multimedia Computing, Communications, and Applications (ToMM): 2021, 2023
 
 
 - Teaching Assistant
