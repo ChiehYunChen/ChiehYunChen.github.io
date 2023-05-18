@@ -30,8 +30,8 @@ My works have appeared in top-tier conferences and journals such as ICCV, ACMMM,
 - (Jul. 2021) I am serving as a reviewer for 1 papers from [TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
 - (Jul. 2021) I am serving as a reviewer for 1 papers from [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
 - (May. 2021) I am serving as a reviewer for 1 papers from [TOMM](https://dl.acm.org/journal/tomm)
-- (Mar. 2021) I am serving as a reviewer for 2 papers from [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
-- (Jan. 2021) I am serving as a reviewer for 2 papers from [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
+- (Mar. 2021) I am serving as a reviewer for 1 papers from [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
+- (Jan. 2021) I am serving as a reviewer for 1 papers from [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
 
 ## Education
 - 2020-2021, M.S., Institute of Electronics, National Yang Ming Chiao Tung University, Taiwan
