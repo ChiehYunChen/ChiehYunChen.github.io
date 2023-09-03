@@ -119,7 +119,8 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
 
 ## Work Experience
 
-- Founder & CEO [Stylins.ai](https://stylins.ai/), 01/2022-Present
-- Machine Learning Engineer [Perfect Corp.](https://www.perfectcorp.com/business), 09/2021-10/2021
-- Research Assistant [AIMM Lab](https://aimm.lab.nycu.edu.tw/), 07/2021-08/2021
-- Student Researcher [AIMM Lab](https://aimm.lab.nycu.edu.tw/), 07/2019-07/2021
+- Research Assistant @ [Academia Sinica](https://www.sinica.edu.tw/en), 03/2023-Present
+- Founder & CEO @ [Stylins.ai](https://stylins.ai/), 01/2022-02/2022
+- Machine Learning Engineer @ [Perfect Corp.](https://www.perfectcorp.com/business), 09/2021-10/2021
+- Research Assistant @ [AIMM Lab](https://aimm.lab.nycu.edu.tw/), 07/2021-08/2021
+- Student Researcher @ [AIMM Lab](https://aimm.lab.nycu.edu.tw/), 07/2019-07/2021
