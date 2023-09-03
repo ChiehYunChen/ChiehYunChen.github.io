@@ -71,8 +71,8 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
 <br> [[Paper](https://arxiv.org/pdf/2102.03503.pdf)]
 
 - **FashionOn: Semantic-guided Image-based Virtual Try-on with Detailed Human and Clothing Information** 
-<br> \*Chia-Wei Hsieh, **\*Chieh-Yun Chen**, \*Chien-Lung Chou, Hong-Han Shuai, Jiaying Liu, and Wen-Huang Cheng
-<br> ACM International Conference on Multimedia (ACMMM), 2019 | Oral, acceptance rate=26.5% | * indicates equal contribution
+<br> \*Chia-Wei Hsieh, **\*Chieh-Yun Chen**, \*Chien-Lung Chou, Hong-Han Shuai, Jiaying Liu, and Wen-Huang Cheng (* indicates equal contribution)
+<br> ACM International Conference on Multimedia (ACMMM), 2019 | Oral, acceptance rate=26.5%
 <br> [[Paper](http://39.96.165.147/Pub%20Files/2019/hcw_mm19.pdf)]
 
 - **Fit-me: Image-based virtual try-on with arbitrary poses** 
