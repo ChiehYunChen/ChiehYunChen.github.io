@@ -47,6 +47,11 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
 <br> **Ranked the 1<sup>st</sup> place in class**
 
 ## Publications
+- **Size Does Matter: Size-aware Virtual Try-on via Clothing-oriented Transformation Try-on Network** 
+<br> **{^*}Chieh-Yun Chen**, {^*}Yi-Chung Chen, Hong-Han Shuai, Wen-Huang Cheng
+<br> International Comference on Computer Vision (ICCV), 2023
+<br> [[Code](https://github.com/cotton6/COTTON-size-does-matter)]
+
 - **FashionMirror: Co-attention Feature-remapping Virtual Try-on with Sequential Template Poses** 
 <br> **Chieh-Yun Chen**, Ling Lo, Pin-Jui Huang, Hong-Han Shuai, and Wen-Huang Cheng
 <br> International Comference on Computer Vision (ICCV), 2021 | Oral, oral acceptance rate=3%
