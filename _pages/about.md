@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I am Chieh 👋🏻"
+title: "Hi, I am Astrid Chen 👋🏻"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,13 +13,14 @@ I am an AI researcher, cooking interesting ideas.
 
 I received the MS from the Institute of Electronics at National (Yang Ming) Chiao Tung University in 2021, advised by [Prof. Wen-Huang Cheng](http://aimmlab.nctu.edu.tw/whcheng/index.html) and [Prof. Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/) and BS from the Department of Electrophysics at National Chiao Tung University in 2020. 
 
-My research interests include multimedia and computer vision. My research recently focuses on 2D image-based and video-based multi-pose virtual try-on, and receives 1<sup>st</sup> Place Award in the 2020 CVPR LIP Challenge (Track: Multi-pose Virtual Try-on Challenge). 
+I am deeply passionate about generative AI, with a specific emphasis on Computer Vision and Image Synthesis and Editing. Throughout my research journey, I've been driven by the potential and transformative capabilities of these domains to create impactful and user-centric solutions.
 
 My works have appeared in top-tier conferences and journals such as CVPR, ICCV, ACMMM, TNNLS, and ACM CSUR. I've served as the invited reviewer for IEEE TNNLS, IEEE TMM, IEEE TCSVT, and ACM TOMM.
 
 <!-- A data-driven personal website -->
 
 ## Recent News 🔥
+- [Jul. 2023] One co-first-author paper [Github](https://github.com/cotton6/COTTON-size-does-matter) got accepted at [ICCV](https://iccv2023.thecvf.com/home)! Let's meet at Paris 🇫🇷
 - [Apr. 2023] Served as a reviewer for [TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
 - [Mar. 2023] Served as a reviewer for [TOMM](https://dl.acm.org/journal/tomm)
 - [Feb. 2023] Served as a reviewer for [TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
