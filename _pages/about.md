@@ -16,12 +16,12 @@ I am deeply passionate about generative AI, with a specific emphasis on Computer
 
 My works have appeared in top-tier conferences and journals such as CVPR, ICCV, ACMMM, TNNLS, and ACM CSUR. I've served as the invited reviewer for IEEE TNNLS, IEEE TMM, IEEE TCSVT, and ACM TOMM.
 
-<br> Feel free to contact me (<cychenisme@gmail.com>). I am open for cooperation!
+🤗 Feel free to contact me (<cychenisme@gmail.com>). I am open for cooperation!
 
 <!-- A data-driven personal website -->
 
 ## Recent News 🔥
-- [Jul. 2023] One co-first-author paper [[Github](https://github.com/cotton6/COTTON-size-does-matter)] got accepted at [ICCV](https://iccv2023.thecvf.com/home)! Let's meet at Paris 🇫🇷
+- [Jul. 2023] One co-first-author paper [[Code](https://github.com/cotton6/COTTON-size-does-matter)] got accepted at [ICCV](https://iccv2023.thecvf.com/home)! Let's meet at Paris 🇫🇷
 - [Apr. 2023] Served as a reviewer for [TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
 - [Mar. 2023] Served as a reviewer for [TOMM](https://dl.acm.org/journal/tomm)
 - [Feb. 2023] Served as a reviewer for [TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
@@ -48,7 +48,7 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
 
 ## Publications
 - **Size Does Matter: Size-aware Virtual Try-on via Clothing-oriented Transformation Try-on Network** 
-<br> **{^*}Chieh-Yun Chen**, {^*}Yi-Chung Chen, Hong-Han Shuai, Wen-Huang Cheng
+<br> **\*Chieh-Yun Chen**, \*Yi-Chung Chen, Hong-Han Shuai, Wen-Huang Cheng (\* indicates equal contribution)
 <br> International Comference on Computer Vision (ICCV), 2023
 <br> [[Code](https://github.com/cotton6/COTTON-size-does-matter)]
 
@@ -71,8 +71,8 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
 <br> [[Paper](https://arxiv.org/pdf/2102.03503.pdf)]
 
 - **FashionOn: Semantic-guided Image-based Virtual Try-on with Detailed Human and Clothing Information** 
-<br> Chia-Wei Hsieh, **Chieh-Yun Chen**, Chien-Lung Chou, Hong-Han Shuai, Jiaying Liu, and Wen-Huang Cheng
-<br> ACM International Conference on Multimedia (ACMMM), 2019 | Oral, acceptance rate=26.5%
+<br> \*Chia-Wei Hsieh, **\*Chieh-Yun Chen**, \*Chien-Lung Chou, Hong-Han Shuai, Jiaying Liu, and Wen-Huang Cheng
+<br> ACM International Conference on Multimedia (ACMMM), 2019 | Oral, acceptance rate=26.5% | * indicates equal contribution
 <br> [[Paper](http://39.96.165.147/Pub%20Files/2019/hcw_mm19.pdf)]
 
 - **Fit-me: Image-based virtual try-on with arbitrary poses** 
