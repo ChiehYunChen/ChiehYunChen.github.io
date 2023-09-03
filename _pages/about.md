@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI researcher, cooking interesting ideas. 
-<br> Feel free to contact me (<cychenisme@gmail.com>). I am open for cooperation!
+An AI researcher, cooking interesting ideas. 
 
 I received the MS from the Institute of Electronics at National (Yang Ming) Chiao Tung University in 2021, advised by [Prof. Wen-Huang Cheng](http://aimmlab.nctu.edu.tw/whcheng/index.html) and [Prof. Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/) and BS from the Department of Electrophysics at National Chiao Tung University in 2020. 
 
@@ -17,10 +16,12 @@ I am deeply passionate about generative AI, with a specific emphasis on Computer
 
 My works have appeared in top-tier conferences and journals such as CVPR, ICCV, ACMMM, TNNLS, and ACM CSUR. I've served as the invited reviewer for IEEE TNNLS, IEEE TMM, IEEE TCSVT, and ACM TOMM.
 
+<br> Feel free to contact me (<cychenisme@gmail.com>). I am open for cooperation!
+
 <!-- A data-driven personal website -->
 
 ## Recent News 🔥
-- [Jul. 2023] One co-first-author paper [Github](https://github.com/cotton6/COTTON-size-does-matter) got accepted at [ICCV](https://iccv2023.thecvf.com/home)! Let's meet at Paris 🇫🇷
+- [Jul. 2023] One co-first-author paper [[Github](https://github.com/cotton6/COTTON-size-does-matter)] got accepted at [ICCV](https://iccv2023.thecvf.com/home)! Let's meet at Paris 🇫🇷
 - [Apr. 2023] Served as a reviewer for [TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
 - [Mar. 2023] Served as a reviewer for [TOMM](https://dl.acm.org/journal/tomm)
 - [Feb. 2023] Served as a reviewer for [TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
