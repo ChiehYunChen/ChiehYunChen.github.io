@@ -124,6 +124,7 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
 
 ## Work Experience
 
+- Research Assistant @ [Epoch Foundation](https://epoch.org.tw/en/), 07/2023-Present
 - Research Assistant @ [Academia Sinica](https://www.sinica.edu.tw/en), 03/2023-Present
 - Founder & CEO @ [Stylins.ai](https://stylins.ai/), 01/2022-02/2022
 - Machine Learning Engineer @ [Perfect Corp.](https://www.perfectcorp.com/business), 09/2021-10/2021
