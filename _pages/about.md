@@ -76,24 +76,6 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
 
 - **[Research] Best Paper Award** in IPPR Conference on Computer Vision, Graphics, and Image Processing (CVGIP), 2019
 
-## Academic Services
-
-- Conference Reviewer
-
-  * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2024
-
-- Journal Reviewer
-
-  * IEEE Transactions on Neural Networks and Learning Systems (TNNLS): 2023
-  * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT): 2021, 2022, 2023
-  * ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM): 2021, 2023
-  * IEEE Transactions on Multimedia (TMM): 2021, 2022
-
-
-- Teaching Assistant
-
-  * NCTU, IEE5741 Applied Computer Vision [English Medium Course], Fall 2020, Instructor: Wen-Huang Cheng
-
 ## Work Experience
 
 - Research Assistant @ [Epoch Foundation](https://epoch.org.tw/en/), 07/2023-Present
