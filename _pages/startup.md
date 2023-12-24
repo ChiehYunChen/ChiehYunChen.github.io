@@ -5,4 +5,4 @@ permalink: /startup/
 author_profile: true
 ---
 
-Comming Soon 🤩 ...
+[![video](../images/startup/Stylins_video_cover_page.png)](../images/startup/2022_Stylins_demo.mp4)
