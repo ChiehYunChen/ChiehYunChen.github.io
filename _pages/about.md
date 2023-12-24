@@ -82,6 +82,7 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
 <br> [[Paper](https://ieeexplore.ieee.org/document/8803681)]
 
 ## Awards
+- **[Research] ICCV Diversity, Equity & Inclusion Award** with travel grant and free registration, 2023
 
 - **[Startup] Excellent Award ($1,950)**, Mobilehero Networked Future Challenge, 2022
 
@@ -102,14 +103,17 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
 
 - **[Research] Future Tech Award ($325)**, Ministry of Science and Technology of Taiwan (MOST), 2021
 
-- **[Research] The 1<sup>st</sup> Place Award** in the Image-based Multi-pose Virtual Try-on Challenge of the 4<sup>th</sup> Look Into Person (LIP) Challenge in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020 | **Chieh-Yun Chen**, Hong-Han Shuai, and Wen-Huang Cheng
-<br> [[Oral Video](https://www.youtube.com/watch?v=zloK9g6RvYk)]
+- **[Research] The 1<sup>st</sup> Place Award** in the Image-based Multi-pose Virtual Try-on Challenge of the 4<sup>th</sup> Look Into Person (LIP) Challenge in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020 | **Chieh-Yun Chen**, Hong-Han Shuai, and Wen-Huang Cheng [[Oral Video](https://www.youtube.com/watch?v=zloK9g6RvYk)]
 
 - **[Research] College Student Research Creativity Award ($2,200)**, Ministry of Science and Technology (MOST), 2020
 
 - **[Research] Best Paper Award** in IPPR Conference on Computer Vision, Graphics, and Image Processing (CVGIP), 2019
 
 ## Academic Services
+
+- Conference Reviewer
+
+  * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2024
 
 - Journal Reviewer
 
