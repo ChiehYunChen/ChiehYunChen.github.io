@@ -23,17 +23,10 @@ author_profile: true
 </table>
 
 
-- **Size Does Matter: Size-aware Virtual Try-on via Clothing-oriented Transformation Try-on Network** 
-<br> **\*Chieh-Yun Chen**, \*Yi-Chung Chen, Hong-Han Shuai, and Wen-Huang Cheng (\*Equal contribution)
-<br> International Comference on Computer Vision (ICCV), 2023
-<br> [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Size_Does_Matter_Size-aware_Virtual_Try-on_via_Clothing-oriented_Transformation_Try-on_ICCV_2023_paper.pdf) 
-\| [Code](https://github.com/cotton6/COTTON-size-does-matter)
-\| [Poster](https://drive.google.com/file/d/1Q0akJasw3Z3O-4YECa-4GkUs-A-pv9pr/view?usp=sharing)]
-
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
     <td style="width: 40%; border: 0px solid black; padding: 8px;">
-      <img src="../images/publications/FashionMirror_12_demo.gif" alt="COTTON-thumbnail">
+      <img src="../images/publications/FashionMirror_12_demo.gif" alt="FashionMirror-thumbnail">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">FashionMirror: Co-attention Feature-remapping Virtual Try-on with Sequential Template Poses</strong>
     <br><span style="font-size: 16px;"><strong>Chieh-Yun Chen</strong>, Ling Lo, Pin-Jui Huang, Hong-Han Shuai, and Wen-Huang Cheng </span>
@@ -45,34 +38,58 @@ author_profile: true
   </tr>
 </table>
 
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 40%; border: 0px solid black; padding: 8px;">
+      <img src="../images/publications/Fashion_CV_ACMCSUR.jpg" alt="survey-thumbnail">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Fashion Meets Computer Vision: A Survey</strong>
+    <br><span style="font-size: 16px;">Wen-Huang Cheng, Sijie Song, <strong>Chieh-Yun Chen</strong>, Shintami Chusnul Hidayati, and Jiaying Liu</span>
+    <br><span style="font-size: 14px;"><em>ACM Computing Surveys (ACM CSUR), 2021 </em></span>
+    <br> <a href="https://dl.acm.org/doi/pdf/10.1145/3447239" target="_blank">Paper</a>
+    </td>
+  </tr>
+</table>
 
-- **FashionMirror: Co-attention Feature-remapping Virtual Try-on with Sequential Template Poses** 
-<br> **Chieh-Yun Chen**, Ling Lo, Pin-Jui Huang, Hong-Han Shuai, and Wen-Huang Cheng
-<br> International Comference on Computer Vision (ICCV), 2021 | Oral, oral acceptance rate=3%
-<br> [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_FashionMirror_Co-Attention_Feature-Remapping_Virtual_Try-On_With_Sequential_Template_Poses_ICCV_2021_paper.pdf) 
-\| [Supplementary materials](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Chen_FashionMirror_Co-Attention_Feature-Remapping_ICCV_2021_supplemental.pdf) 
-\| [Oral Video](https://youtu.be/1qPQWZmUbow) 
-\| [Github Demo](https://github.com/FashionMirror/FashionMirror)]
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 40%; border: 0px solid black; padding: 8px;">
+      <img src="../images/publications/TFTIS_firstpic.jpg" alt="TFTIS-thumbnail">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Template-free Try-on Image Synthesis via Semantic-guided Optimization</strong>
+    <br><span style="font-size: 16px;">Chien-Lung Chou, <strong>Chieh-Yun Chen</strong>, Chia-Wei Hsieh, Hong-Han Shuai, Jiaying Liu, and Wen-Huang Cheng</span>
+    <br><span style="font-size: 14px;"><em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021 </em></span>
+    <br> <a href="https://arxiv.org/pdf/2102.03503.pdf" target="_blank">Paper</a>
+    </td>
+  </tr>
+</table>
 
-- **Fashion Meets Computer Vision: A Survey** 
-<br> Wen-Huang Cheng, Sijie Song, **Chieh-Yun Chen**, Shintami Chusnul Hidayati, and Jiaying Liu
-<br> ACM Computing Surveys (ACM CSUR), 2021 
-<br> [[Paper](https://dl.acm.org/doi/pdf/10.1145/3447239)] 
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 40%; border: 0px solid black; padding: 8px;">
+      <img src="../images/publications/FashionOn_firstpic.jpg" alt="FashionOn-thumbnail">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">FashionOn: Semantic-guided Image-based Virtual Try-on with Detailed Human and Clothing Information</strong>
+    <br><span style="font-size: 16px;">*Chia-Wei Hsieh, <strong>*Chieh-Yun Chen</strong>, *Chien-Lung Chou, Hong-Han Shuai, Jiaying Liu, and Wen-Huang Cheng  (*Equal contribution)</span>
+    <br><span style="font-size: 14px;"><em>ACM International Conference on Multimedia (ACM MM), 2019 | Oral, acceptance rate=26.5% </em></span>
+    <br> <a href="http://39.96.165.147/Pub%20Files/2019/hcw_mm19.pdf" target="_blank">Paper</a>
+    </td>
+  </tr>
+</table>
 
-- **Template-free Try-on Image Synthesis via Semantic-guided Optimization** 
-<br> Chien-Lung Chou, **Chieh-Yun Chen**, Chia-Wei Hsieh, Hong-Han Shuai, Jiaying Liu, and Wen-Huang Cheng
-<br> IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021 
-<br> [[Paper](https://arxiv.org/pdf/2102.03503.pdf)]
 
-- **FashionOn: Semantic-guided Image-based Virtual Try-on with Detailed Human and Clothing Information** 
-<br> \*Chia-Wei Hsieh, **\*Chieh-Yun Chen**, \*Chien-Lung Chou, Hong-Han Shuai, Jiaying Liu, and Wen-Huang Cheng (*Equal contribution)
-<br> ACM International Conference on Multimedia (ACMMM), 2019 | Oral, acceptance rate=26.5%
-<br> [[Paper](http://39.96.165.147/Pub%20Files/2019/hcw_mm19.pdf)]
-
-- **Fit-me: Image-based virtual try-on with arbitrary poses** 
-<br> Chia-Wei Hsieh, **Chieh-Yun Chen**, Chien-Lung Chou, Hong-Han Shuai, Jiaying Liu, and Wen-Huang Cheng
-<br> International Conference on Image Processing (ICIP), 2019 
-<br> [[Paper](https://ieeexplore.ieee.org/document/8803681)]
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 40%; border: 0px solid black; padding: 8px;">
+      <img src="../images/publications/FITME_firstpic.png" alt="FITME-thumbnail">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Fit-me: Image-based virtual try-on with arbitrary poses</strong>
+    <br><span style="font-size: 16px;">Chia-Wei Hsieh, <strong>Chieh-Yun Chen</strong>, Chien-Lung Chou, Hong-Han Shuai, and Wen-Huang Cheng</span>
+    <br><span style="font-size: 14px;"><em>International Conference on Image Processing (ICIP), 2019 </em></span>
+    <br> <a href="https://ieeexplore.ieee.org/document/8803681" target="_blank">Paper</a>
+    </td>
+  </tr>
+</table>
 
 
 ## Academic Services
