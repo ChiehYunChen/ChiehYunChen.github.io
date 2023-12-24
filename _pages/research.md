@@ -9,7 +9,7 @@ author_profile: true
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="border: 0px solid black; padding: 8px;">
+    <td style="width: 60%; border: 0px solid black; padding: 8px;">
       <img src="../images/publications/human33_upper128_masked.gif" alt="COTTON-thumbnail">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Size Does Matter: Size-aware Virtual Try-on via Clothing-oriented Transformation Try-on Network</strong>
