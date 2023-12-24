@@ -14,14 +14,15 @@ I received the MS from the Institute of Electronics at National (Yang Ming) Chia
 
 I am deeply passionate about generative AI, with a specific emphasis on Computer Vision and Image Synthesis and Editing. Throughout my research journey, I've been driven by the potential and transformative capabilities of these domains to create impactful and user-centric solutions.
 
-My works have appeared in top-tier conferences and journals such as CVPR, ICCV, ACMMM, TNNLS, and ACM CSUR. I've served as the invited reviewer for IEEE TNNLS, IEEE TMM, IEEE TCSVT, and ACM TOMM.
+My works have appeared in top-tier conferences and journals such as CVPR, ICCV, ACMMM, TNNLS, and ACM CSUR. I've served as the invited reviewer for CVPR, IEEE TNNLS, IEEE TMM, IEEE TCSVT, and ACM ToMM.
 
 🤗 Feel free to contact me (<cychenisme@gmail.com>). I am open for cooperation!
 
 <!-- A data-driven personal website -->
 
 ## Recent News 🔥
-- [Jul. 2023] One co-first-author paper [[Code](https://github.com/cotton6/COTTON-size-does-matter)] got accepted at [ICCV](https://iccv2023.thecvf.com/home)! Let's meet at Paris 🇫🇷
+- [Aug. 2023] 🙏 Received ICCV Diversity, Equity & Inclusion Award with travel grant and free registration. Thanks ICCV’23 DEI Committee!
+- [Jul. 2023] One co-first-author paper "[Size Does Matter: Size-aware Virtual Try-on via Clothing-oriented Transformation Try-on Network](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Size_Does_Matter_Size-aware_Virtual_Try-on_via_Clothing-oriented_Transformation_Try-on_ICCV_2023_paper.pdf)" [[Code](https://github.com/cotton6/COTTON-size-does-matter)] got accepted at [ICCV](https://iccv2023.thecvf.com/home)! Let's meet at Paris 🇫🇷
 - [Apr. 2023] Served as a reviewer for [TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
 - [Mar. 2023] Served as a reviewer for [TOMM](https://dl.acm.org/journal/tomm)
 - [Feb. 2023] Served as a reviewer for [TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
