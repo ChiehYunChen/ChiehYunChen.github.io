@@ -30,6 +30,21 @@ author_profile: true
 \| [Code](https://github.com/cotton6/COTTON-size-does-matter)
 \| [Poster](https://drive.google.com/file/d/1Q0akJasw3Z3O-4YECa-4GkUs-A-pv9pr/view?usp=sharing)]
 
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 40%; border: 0px solid black; padding: 8px;">
+      <img src="../images/publications/FashionMirror_12_demo.gif" alt="COTTON-thumbnail">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">FashionMirror: Co-attention Feature-remapping Virtual Try-on with Sequential Template Poses</strong>
+    <br><span style="font-size: 16px;"><strong>Chieh-Yun Chen</strong>, Ling Lo, Pin-Jui Huang, Hong-Han Shuai, and Wen-Huang Cheng </span>
+    <br><span style="font-size: 14px;"><em>International Comference on Computer Vision (ICCV), 2021 | Oral, oral acceptance rate=3% </em></span>
+    <br> <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_FashionMirror_Co-Attention_Feature-Remapping_Virtual_Try-On_With_Sequential_Template_Poses_ICCV_2021_paper.pdf" target="_blank">Paper</a> | <a href="https://openaccess.thecvf.com/content/ICCV2021/supplemental/Chen_FashionMirror_Co-Attention_Feature-Remapping_ICCV_2021_supplemental.pdf" target="_blank">Supplements</a> | 
+      <a href="https://youtu.be/1qPQWZmUbow" target="_blank">Oral Video</a> | <a href="https://drive.google.com/file/d/1Vu8Zjep70aUS9eaUveDyuXK9o-N5dAzn/view?usp=sharing" target="_blank">Poster</a> | 
+      <a href="https://github.com/FashionMirror/FashionMirror" target="_blank">Demo</a>
+    </td>
+  </tr>
+</table>
+
 
 - **FashionMirror: Co-attention Feature-remapping Virtual Try-on with Sequential Template Poses** 
 <br> **Chieh-Yun Chen**, Ling Lo, Pin-Jui Huang, Hong-Han Shuai, and Wen-Huang Cheng
