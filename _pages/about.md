@@ -49,7 +49,7 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
 
 ## Publications
 - **Size Does Matter: Size-aware Virtual Try-on via Clothing-oriented Transformation Try-on Network** 
-<br> **\*Chieh-Yun Chen**, \*Yi-Chung Chen, Hong-Han Shuai, Wen-Huang Cheng (\* indicates equal contribution)
+<br> **\*Chieh-Yun Chen**, \*Yi-Chung Chen, Hong-Han Shuai, and Wen-Huang Cheng (\* indicates equal contribution)
 <br> International Comference on Computer Vision (ICCV), 2023
 <br> [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Size_Does_Matter_Size-aware_Virtual_Try-on_via_Clothing-oriented_Transformation_Try-on_ICCV_2023_paper.pdf) 
 \| [Code](https://github.com/cotton6/COTTON-size-does-matter)
@@ -106,7 +106,7 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
 
 - **[Research] Future Tech Award ($325)**, Ministry of Science and Technology of Taiwan (MOST), 2021
 
-- **[Research] The 1<sup>st</sup> Place Award** in the Image-based Multi-pose Virtual Try-on Challenge of the 4<sup>th</sup> Look Into Person (LIP) Challenge in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020 | **Chieh-Yun Chen**, Hong-Han Shuai, and Wen-Huang Cheng [[Oral Video](https://www.youtube.com/watch?v=zloK9g6RvYk)]
+- **[Research] The 1<sup>st</sup> Place Award** in the Image-based Multi-pose Virtual Try-on Challenge of the 4<sup>th</sup> Look Into Person (LIP) Challenge in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020  [[Oral Video](https://www.youtube.com/watch?v=zloK9g6RvYk)]
 
 - **[Research] College Student Research Creativity Award ($2,200)**, Ministry of Science and Technology (MOST), 2020
 
