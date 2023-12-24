@@ -41,3 +41,20 @@ author_profile: true
 <br> Chia-Wei Hsieh, **Chieh-Yun Chen**, Chien-Lung Chou, Hong-Han Shuai, Jiaying Liu, and Wen-Huang Cheng
 <br> International Conference on Image Processing (ICIP), 2019 
 <br> [[Paper](https://ieeexplore.ieee.org/document/8803681)]
+
+
+## Academic Services
+
+- Conference Reviewer
+  * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2024
+
+- Journal Reviewer
+  * IEEE Transactions on Neural Networks and Learning Systems (TNNLS): 2023
+  * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT): 2021, 2022, 2023
+  * ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM): 2021, 2023
+  * IEEE Transactions on Multimedia (TMM): 2021, 2022
+
+
+- Teaching Assistant
+  * IEE5741 [Applied Computer Vision](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=110&Sem=1&CrsNo=5043&lang=zh-tw) [English Medium Course], Fall 2020, National Chiao Tung University
+<br> Instructor: Prof. Wen-Huang Cheng
