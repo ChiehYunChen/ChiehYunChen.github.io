@@ -14,7 +14,7 @@ author_profile: true
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Size Does Matter: Size-aware Virtual Try-on via Clothing-oriented Transformation Try-on Network</strong>
     <br><span style="font-size: 16px;"><strong>*Chieh-Yun Chen</strong>, *Yi-Chung Chen, Hong-Han Shuai, and Wen-Huang Cheng (*Equal contribution) </span>
-    <br> <em>International Comference on Computer Vision (ICCV), 2023 </em>
+    <br><span style="font-size: 14px;"><em>International Comference on Computer Vision (ICCV), 2023 </em></span>
     <br> <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Size_Does_Matter_Size-aware_Virtual_Try-on_via_Clothing-oriented_Transformation_Try-on_ICCV_2023_paper.pdf" target="_blank">Paper</a> | 
       <a href="https://github.com/cotton6/COTTON-size-does-matter" target="_blank">Code</a> | 
       <a href="https://drive.google.com/file/d/1Q0akJasw3Z3O-4YECa-4GkUs-A-pv9pr/view?usp=sharing" target="_blank">Poster</a>
