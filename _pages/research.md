@@ -91,6 +91,20 @@ author_profile: true
   </tr>
 </table>
 
+## Talks
+
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 40%; border: 0px solid black; padding: 8px;">
+      <img src="../images/publications/CVPR'20_LIPchallenge_talk.png" alt="FITME-thumbnail">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Winner Talk for Image-based Multi-pose Virtual Try-on Challenge</strong>
+    <br><span style="font-size: 16px;"><strong>Chieh-Yun Chen</strong>, Hong-Han Shuai, and Wen-Huang Cheng</span>
+    <br><span style="font-size: 14px;"><em>CVPR 2020 Workshop on Towards Human-Centric Image/Video Synthesis,  and the 4<sup>th</sup> Look Into Person (LIP) Challenge </em></span>
+    <br> <a href="https://www.youtube.com/watch?v=zloK9g6RvYk" target="_blank">Video</a>
+    </td>
+  </tr>
+</table>
 
 ## Academic Services
 
