@@ -16,7 +16,7 @@ I am deeply passionate about generative AI, with a specific emphasis on Computer
 
 My works have appeared in top-tier conferences and journals such as CVPR, ICCV, ACMMM, TNNLS, and ACM CSUR. I've served as the invited reviewer for CVPR, IEEE TNNLS, IEEE TMM, IEEE TCSVT, and ACM ToMM.
 
-🤗 Feel free to contact me (<cychenisme@gmail.com>). I am open for cooperation!
+🤗 Feel free to contact me (<cychenisme@gmail.com>). I am open for collaboration!
 
 <!-- A data-driven personal website -->
 
