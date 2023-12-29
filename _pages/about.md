@@ -154,7 +154,7 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="width: 20% border: 0px solid black; padding: 8px;">
+    <td style="width: 20%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/Stylins_logo.png" alt="stylins_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Founder & CEO</strong>
