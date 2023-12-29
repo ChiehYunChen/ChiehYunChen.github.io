@@ -132,8 +132,7 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
       <img src="../images/logo/NYCU_logo.jpg" alt="NYCU_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Research Assistant</strong>
-    <br><span style="font-size: 16px;">
-    <a href="https://www.nycu.edu.tw/nycu/en/index" target="_blank">National Yang Ming Chiao Tung University</a> in Taiwan</span>
+    <br><span style="font-size: 16px;"> <a href="https://basiclab.lab.nycu.edu.tw/Yummy/index.html" target="_blank">Basic Lab</a> in <a href="https://www.nycu.edu.tw/nycu/en/index" target="_blank">National Yang Ming Chiao Tung University</a> in Taiwan</span>
     <br><span style="font-size: 14px;">Aug. 2023 - Present</span>
     </td>
   </tr>
@@ -145,7 +144,7 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
       <img src="../images/logo/AS_logo.png" alt="AS_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Research Assistant</strong>
-    <br><span style="font-size: 16px;">
+    <br><span style="font-size: 16px;"> <a href="https://basiclab.lab.nycu.edu.tw/Yummy/index.html" target="_blank">Basic Lab</a> in 
     <a href="https://www.sinica.edu.tw/en" target="_blank">Academia Sinica</a> in Taiwan</span>
     <br><span style="font-size: 14px;">Mar. 2023 - Jul. 2023</span>
     </td>
