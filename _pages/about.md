@@ -45,7 +45,7 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="width: 40%; border: 0px solid black; padding: 8px;">
+    <td style="width: 20%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/NYCU_logo.jpg" alt="NCTU_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">M.S., Institute of Electronics</strong>
@@ -58,7 +58,7 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="width: 40%; border: 0px solid black; padding: 8px;">
+    <td style="width: 20%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/NCTU_logo_chinese.jpeg" alt="NCTU_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">B.S., Department of Electrophysics</strong>
@@ -102,8 +102,8 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="width: 40%; border: 0px solid black; padding: 8px;">
-      <img src="../images/logo/epoch_logo.png" alt="NL_logo">
+    <td style="width: 20%; border: 0px solid black; padding: 8px;">
+      <img src="../images/logo/epoch_logo.png" alt="epoch_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Volunteer Research Assistant</strong>
     <br><span style="font-size: 16px;">
@@ -115,7 +115,7 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="width: 40%; border: 0px solid black; padding: 8px;">
+    <td style="width: 20%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/Ne_icon.png" alt="NL_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Applied Scientist</strong>
@@ -128,8 +128,8 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="width: 40%; border: 0px solid black; padding: 8px;">
-      <img src="../images/logo/NYCU_logo.jpg" alt="NCTU_logo">
+    <td style="width: 20%; border: 0px solid black; padding: 8px;">
+      <img src="../images/logo/NYCU_logo.jpg" alt="NYCU_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Research Assistant</strong>
     <br><span style="font-size: 16px;">
@@ -141,8 +141,8 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="width: 40%; border: 0px solid black; padding: 8px;">
-      <img src="../images/logo/AS_logo.png" alt="NCTU_logo">
+    <td style="width: 20%; border: 0px solid black; padding: 8px;">
+      <img src="../images/logo/AS_logo.png" alt="AS_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Research Assistant</strong>
     <br><span style="font-size: 16px;">
@@ -154,8 +154,8 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="width: 40%; border: 0px solid black; padding: 8px;">
-      <img src="../images/logo/Stylins_logo.png" alt="NCTU_logo">
+    <td style="width: 20% border: 0px solid black; padding: 8px;">
+      <img src="../images/logo/Stylins_logo.png" alt="stylins_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Founder & CEO</strong>
     <br><span style="font-size: 16px;">
@@ -167,8 +167,8 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="width: 40%; border: 0px solid black; padding: 8px;">
-      <img src="../images/logo/perfect_logo2.png" alt="NCTU_logo">
+    <td style="width: 20%; border: 0px solid black; padding: 8px;">
+      <img src="../images/logo/perfect_logo2.png" alt="perfect_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Machine Learning Engineer</strong>
     <br><span style="font-size: 16px;">
@@ -180,7 +180,7 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="width: 40%; border: 0px solid black; padding: 8px;">
+    <td style="width: 20%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/NCTU_logo_chinese.jpeg" alt="NCTU_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Research Assistant</strong>
@@ -193,7 +193,7 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="width: 40%; border: 0px solid black; padding: 8px;">
+    <td style="width: 20%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/NCTU_logo_chinese.jpeg" alt="NCTU_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Student Researcher</strong>
