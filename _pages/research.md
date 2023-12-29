@@ -91,7 +91,7 @@ author_profile: true
   </tr>
 </table>
 
-## Talks
+## Talk
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>

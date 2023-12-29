@@ -42,10 +42,32 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
 - [Jan. 2021] Served as a reviewer for [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046) -->
 
 ## Education
-- 2020-2021, M.S., Institute of Electronics, National Yang Ming Chiao Tung University, Taiwan
-<br> **Accepted as the 1 year program with funding $1,300**
-- 2016-2020, B.S., Department of Electrophysics, National Chiao Tung University, Taiwan 
-<br> **Ranked the 1<sup>st</sup> place in class**
+
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 40%; border: 0px solid black; padding: 8px;">
+      <img src="../images/logo/NYCU_logo.jpg" alt="NCTU_logo">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">M.S., Institute of Electronics</strong>
+    <br><span style="font-size: 16px;">National Yang Ming Chiao Tung University in Taiwan</span>
+    <br><span style="font-size: 14px;">Sep. 2020 - Jul. 2021</span>
+    <br> <em> Accepted as the 1 year program with funding $1,300 </em>
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 40%; border: 0px solid black; padding: 8px;">
+      <img src="../images/logo/NCTU_logo_chinese.jpeg" alt="NCTU_logo">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">B.S., Department of Electrophysics</strong>
+    <br><span style="font-size: 16px;">National Chiao Tung University @ Taiwan</span>
+    <br><span style="font-size: 14px;">Sep. 2016 - Jun. 2020</span>
+    <br> <em> Ranked the 1<sup>st</sup> place in class </em>
+    </td>
+  </tr>
+</table>
 
 
 ## Awards
@@ -78,9 +100,106 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
 
 ## Work Experience
 
-- Research Assistant @ [Epoch Foundation](https://epoch.org.tw/en/), 07/2023-Present
-- Research Assistant @ [Academia Sinica](https://www.sinica.edu.tw/en), 03/2023-Present
-- Founder & CEO @ [Stylins.ai](https://stylins.ai/), 01/2022-02/2022
-- Machine Learning Engineer @ [Perfect Corp.](https://www.perfectcorp.com/business), 09/2021-10/2021
-- Research Assistant @ [AIMM Lab](https://aimm.lab.nycu.edu.tw/), 07/2021-08/2021
-- Student Researcher @ [AIMM Lab](https://aimm.lab.nycu.edu.tw/), 07/2019-07/2021
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 40%; border: 0px solid black; padding: 8px;">
+      <img src="../images/logo/epoch_logo.png" alt="NL_logo">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Volunteer Research Assistant</strong>
+    <br><span style="font-size: 16px;">
+    <a href="https://epoch.org.tw/en/" target="_blank">Epoch Foundation</a> in Taiwan</span>
+    <br><span style="font-size: 14px;">Jul. 2023 - Present</span>
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 40%; border: 0px solid black; padding: 8px;">
+      <img src="../images/logo/Ne_icon.png" alt="NL_logo">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Applied Scientist</strong>
+    <br><span style="font-size: 16px;">
+    <a href="https://neurons-lab.com" target="_blank">Neurons Lab</a> in London</span>
+    <br><span style="font-size: 14px;">Mar. 2023 - Present</span>
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 40%; border: 0px solid black; padding: 8px;">
+      <img src="../images/logo/NYCU_logo.jpg" alt="NCTU_logo">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Research Assistant</strong>
+    <br><span style="font-size: 16px;">
+    <a href="https://www.nycu.edu.tw/nycu/en/index" target="_blank">National Yang Ming Chiao Tung University</a> in Taiwan</span>
+    <br><span style="font-size: 14px;">Aug. 2023 - Present</span>
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 40%; border: 0px solid black; padding: 8px;">
+      <img src="../images/logo/AS_logo.png" alt="NCTU_logo">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Research Assistant</strong>
+    <br><span style="font-size: 16px;">
+    <a href="https://www.sinica.edu.tw/en" target="_blank">Academia Sinica</a> in Taiwan</span>
+    <br><span style="font-size: 14px;">Mar. 2023 - Jul. 2023</span>
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 40%; border: 0px solid black; padding: 8px;">
+      <img src="../images/logo/Stylins_logo.png" alt="NCTU_logo">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Founder & CEO</strong>
+    <br><span style="font-size: 16px;">
+    <a href="https://stylins.ai/" target="_blank">Stylins.ai</a> in Taiwan</span>
+    <br><span style="font-size: 14px;">Nov. 2021 - Feb. 2023</span>
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 40%; border: 0px solid black; padding: 8px;">
+      <img src="../images/logo/perfect_logo2.png" alt="NCTU_logo">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Machine Learning Engineer</strong>
+    <br><span style="font-size: 16px;">
+    <a href="https://www.perfectcorp.com/business" target="_blank">Perfect Corp.</a> in Taiwan</span>
+    <br><span style="font-size: 14px;">Sep. 2021 - Oct. 2021</span>
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 40%; border: 0px solid black; padding: 8px;">
+      <img src="../images/logo/NCTU_logo_chinese.jpeg" alt="NCTU_logo">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Research Assistant</strong>
+    <br><span style="font-size: 16px;">
+    <a href="https://aimm.lab.nycu.edu.tw/" target="_blank">AIMM Lab</a> in National Chiao Tung University in Taiwan</span>
+    <br><span style="font-size: 14px;">Jul. 2021 - Aug. 2021</span>
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 40%; border: 0px solid black; padding: 8px;">
+      <img src="../images/logo/NCTU_logo_chinese.jpeg" alt="NCTU_logo">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Student Researcher</strong>
+    <br><span style="font-size: 16px;">
+    <a href="https://aimm.lab.nycu.edu.tw/" target="_blank">AIMM Lab</a> in National Chiao Tung University in Taiwan</span>
+    <br><span style="font-size: 14px;">Jul. 2019 - Jun. 2021</span>
+    </td>
+  </tr>
+</table>
