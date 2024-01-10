@@ -41,34 +41,6 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
 - [Mar. 2021] Served as a reviewer for [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
 - [Jan. 2021] Served as a reviewer for [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046) -->
 
-## Education
-
-<table style="width: 100%; border-collapse: collapse; border: 0;">
-  <tr>
-    <td style="width: 20%; border: 0px solid black; padding: 8px;">
-      <img src="../images/logo/NYCU_logo.jpg" alt="NCTU_logo">
-    </td>
-    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">M.S., Institute of Electronics</strong>
-    <br><span style="font-size: 16px;">National Yang Ming Chiao Tung University in Taiwan</span>
-    <br><span style="font-size: 14px;">Sep. 2020 - Jul. 2021</span>
-    <br> <em> Accepted as the 1 year program with funding $1,300 </em>
-    </td>
-  </tr>
-</table>
-
-<table style="width: 100%; border-collapse: collapse; border: 0;">
-  <tr>
-    <td style="width: 20%; border: 0px solid black; padding: 8px;">
-      <img src="../images/logo/NCTU_logo_chinese.jpeg" alt="NCTU_logo">
-    </td>
-    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">B.S., Department of Electrophysics</strong>
-    <br><span style="font-size: 16px;">National Chiao Tung University @ Taiwan</span>
-    <br><span style="font-size: 14px;">Sep. 2016 - Jun. 2020</span>
-    <br> <em> Ranked the 1<sup>st</sup> place in class </em>
-    </td>
-  </tr>
-</table>
-
 
 ## Awards
 - **[Research] ICCV Diversity, Equity & Inclusion Award** with travel grant and free registration, 2023
@@ -199,6 +171,35 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
     <br><span style="font-size: 16px;">
     <a href="https://aimm.lab.nycu.edu.tw/" target="_blank">AIMM Lab</a> in National Chiao Tung University in Taiwan</span>
     <br><span style="font-size: 14px;">Jul. 2019 - Jun. 2021</span>
+    </td>
+  </tr>
+</table>
+
+
+## Education
+
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 20%; border: 0px solid black; padding: 8px;">
+      <img src="../images/logo/NYCU_logo.jpg" alt="NCTU_logo">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">M.S., Institute of Electronics</strong>
+    <br><span style="font-size: 16px;">National Yang Ming Chiao Tung University in Taiwan</span>
+    <br><span style="font-size: 14px;">Sep. 2020 - Jul. 2021</span>
+    <br> <em> Accepted as the 1 year program with funding $1,300 </em>
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 20%; border: 0px solid black; padding: 8px;">
+      <img src="../images/logo/NCTU_logo_chinese.jpeg" alt="NCTU_logo">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">B.S., Department of Electrophysics</strong>
+    <br><span style="font-size: 16px;">National Chiao Tung University @ Taiwan</span>
+    <br><span style="font-size: 14px;">Sep. 2016 - Jun. 2020</span>
+    <br> <em> Ranked the 1<sup>st</sup> place in class </em>
     </td>
   </tr>
 </table>
