@@ -110,7 +110,7 @@ author_profile: true
 
 - Conference Reviewer
   * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2024
-
+  * IEEE International Conference on Multimedia and Expo (ICME): 2024
 - Journal Reviewer
   * IEEE Transactions on Neural Networks and Learning Systems (TNNLS): 2023
   * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT): 2021, 2022, 2023
