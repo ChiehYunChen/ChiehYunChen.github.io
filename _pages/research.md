@@ -115,7 +115,7 @@ author_profile: true
   * IEEE Transactions on Neural Networks and Learning Systems (TNNLS): 2023
   * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT): 2021, 2022, 2023
   * ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM): 2021, 2023
-  * IEEE Transactions on Multimedia (TMM): 2021, 2022
+  * IEEE Transactions on Multimedia (TMM): 2021, 2022, 2024
 
 
 - Teaching Assistant

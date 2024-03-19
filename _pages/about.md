@@ -21,6 +21,7 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
 <!-- A data-driven personal website -->
 
 ## Recent News 🔥
+- [Mar. 2024] Served as a reviewer for [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
 - [Mar. 2024] Served as an emergency reviewer for 3 papers submitted to ICME'24
 - [Jan. 2024] Served as a reviewer for 6 papers submitted to CVPR'24 
 - [Aug. 2023] 🙏 Received ICCV Diversity, Equity & Inclusion Award with travel grant and free registration. Thanks ICCV’23 DEI Committee!
@@ -90,19 +91,6 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
     <td style="width: 20%; border: 0px solid black; padding: 8px;">
-      <img src="../images/logo/Ne_icon.png" alt="NL_logo">
-    </td>
-    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Applied Scientist</strong>
-    <br><span style="font-size: 16px;">
-    <a href="https://neurons-lab.com" target="_blank">Neurons Lab</a> in London</span>
-    <br><span style="font-size: 14px;">Mar. 2023 - Present</span>
-    </td>
-  </tr>
-</table>
-
-<table style="width: 100%; border-collapse: collapse; border: 0;">
-  <tr>
-    <td style="width: 20%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/NYCU_logo.jpg" alt="NYCU_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Research Assistant</strong>
@@ -121,6 +109,19 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
     <br><span style="font-size: 16px;"> <a href="https://basiclab.lab.nycu.edu.tw/Yummy/index.html" target="_blank">Basic Lab</a> in 
     <a href="https://www.sinica.edu.tw/en" target="_blank">Academia Sinica</a> in Taiwan</span>
     <br><span style="font-size: 14px;">Mar. 2023 - Jul. 2023</span>
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 20%; border: 0px solid black; padding: 8px;">
+      <img src="../images/logo/Ne_icon.png" alt="NL_logo">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Applied Scientist</strong>
+    <br><span style="font-size: 16px;">
+    <a href="https://neurons-lab.com" target="_blank">Neurons Lab</a> in London</span>
+    <br><span style="font-size: 14px;">Mar. 2023 - Mar. 2024</span>
     </td>
   </tr>
 </table>
