@@ -90,7 +90,7 @@ Let's have a (virtual) coffee chat about interesting topics.
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Volunteer Research Assistant</strong>
     <br><span style="font-size: 16px;">
-    <a href="https://epoch.org.tw/en/" target="_blank">SHI Lab</a> in <a href="https://www.gatech.edu/" target="_blank"> Georgia Tech</a> in Atlanta 🇺🇸</span>
+    <a href="https://www.shi-labs.com/" target="_blank">SHI Lab</a> in <a href="https://www.gatech.edu/" target="_blank"> Georgia Tech</a> in Atlanta 🇺🇸</span>
     <br><span style="font-size: 14px;">Jun. 2024 - Present</span>
     </td>
   </tr>
