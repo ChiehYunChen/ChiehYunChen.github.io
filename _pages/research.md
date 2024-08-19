@@ -121,7 +121,7 @@ author_profile: true
 
 
 - Teaching Assistant
-  * CS6476 Computer Vision, Fall 2024, Georgia Institute of Technology
+  * [CS6476 Computer Vision](https://www.humphreyshi.com/vision), Fall 2024, Georgia Institute of Technology
 <br> Instructor: Prof. Humphrey Shi
 
   * IEE5741 [Applied Computer Vision](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=110&Sem=1&CrsNo=5043&lang=zh-tw) [English Medium Course], Fall 2020, National Chiao Tung University
