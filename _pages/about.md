@@ -128,7 +128,7 @@ Let's have a (virtual) coffee chat about interesting topics.
       <img src="../images/logo/NYCU_logo_adjusted.png" alt="NYCU_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Research Assistant</strong>
-    <br><span style="font-size: 16px;"> <a href="https://basiclab.lab.nycu.edu.tw/Yummy/index.html" target="_blank">Basic Lab</a> in <a href="https://www.nycu.edu.tw/nycu/en/index" target="_blank">National Yang Ming Chiao Tung University</a> in Taiwan 🇹🇼</span>
+    <br><span style="font-size: 16px;"> <a href="https://basiclab.lab.nycu.edu.tw/new/index.html" target="_blank">Basic Lab</a> in <a href="https://www.nycu.edu.tw/nycu/en/index" target="_blank">National Yang Ming Chiao Tung University</a> in Taiwan 🇹🇼</span>
     <br><span style="font-size: 14px;">Aug. 2023 - Jun. 2024</span>
     </td>
   </tr>
@@ -140,7 +140,7 @@ Let's have a (virtual) coffee chat about interesting topics.
       <img src="../images/logo/AS_logo.png" alt="AS_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Research Assistant</strong>
-    <br><span style="font-size: 16px;"> <a href="https://basiclab.lab.nycu.edu.tw/Yummy/index.html" target="_blank">Basic Lab</a> in 
+    <br><span style="font-size: 16px;"> <a href="https://basiclab.lab.nycu.edu.tw/new/index.html" target="_blank">Basic Lab</a> in 
     <a href="https://www.sinica.edu.tw/en" target="_blank">Academia Sinica</a> in Taiwan 🇹🇼</span>
     <br><span style="font-size: 14px;">Mar. 2023 - Jul. 2023</span>
     </td>
