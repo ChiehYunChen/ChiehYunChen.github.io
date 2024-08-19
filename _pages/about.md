@@ -26,7 +26,7 @@ Let's have a (virtual) coffee chat about interesting topics.
 ## Recent News 🔥
 - [Jun. 2024] I am excited to join the [SHI Lab](https://www.shi-labs.com/) as a graduate student at Atlanta 🇺🇸
 - [Jun. 2024] Served as a reviewer for 6 papers submitted to NeurIPS'24
-- [Apr. 2024] One paper "Artifact Does Matter! Low-artifact High-resolution Virtual Try-On via Diffusion-based Warp-and-Fuse Consistent Texture" got the Best Paper Runner-Up Award at [CVPRW'24](https://sites.google.com/view/cvfad2024/home?authuser=0)! Welcome to chat with our team in Seattle 🇺🇸
+- [Apr. 2024] One paper "[Artifact Does Matter! Low-artifact High-resolution Virtual Try-On via Diffusion-based Warp-and-Fuse Consistent Texture](https://basiclab.lab.nycu.edu.tw/assets/LA-VTON.pdf)" got the **Best Paper Runner-Up Award** at [CVPRW'24](https://sites.google.com/view/cvfad2024/home?authuser=0)! Welcome to chat with our team in Seattle 🇺🇸
 - [Apr. 2024] Served as a reviewer for 4 papers submitted to ECCV'24
 <!-- - [Mar. 2024] Served as a reviewer for [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046) -->
 <!-- - [Mar. 2024] Served as an emergency reviewer for 3 papers submitted to ICME'24 -->
