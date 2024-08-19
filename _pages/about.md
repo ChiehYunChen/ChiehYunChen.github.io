@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-AI researcher, cooking interesting ideas. 
+GenAI researcher, cooking interesting ideas. 
 
 <!-- I received the MS from the Institute of Electronics at National (Yang Ming) Chiao Tung University in 2021, advised by [Prof. Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/) and [Prof. Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/) and BS from the Department of Electrophysics at National Chiao Tung University in 2020.  -->
 
-I am deeply passionate about generative AI, with a specific emphasis on Computer Vision and Image Synthesis and Editing. Throughout my research journey, I've been driven by the potential and transformative capabilities of these domains to create impactful and user-centric solutions.
+I am now the graduate student in Georgia Tech, advised by [Prof. Humphrey Shi](https://www.humphreyshi.com/), researching Video Understanding and Synthesis. Previously, I received the MS in 2021 and BS in 2020 at National Chiao Tung University, advised by [Prof. Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/) and [Prof. Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/).
+
+I am deeply passionate about generative AI, with a specific emphasis on Computer Vision and Image Synthesis, Editing, and Understanding. Throughout my research journey, I've been driven by the potential and transformative capabilities of these domains to create impactful and user-centric solutions.
 
 My works have appeared in top-tier conferences and journals such as CVPR, ICCV, ACMMM, TNNLS, and ACM CSUR. I've served as the invited reviewer for CVPR, ECCV, NeurIPS, IEEE TNNLS, IEEE TMM, IEEE TCSVT, and ACM ToMM.
 
@@ -22,10 +24,12 @@ Let's have a (virtual) coffee chat about interesting topics.
 <!-- A data-driven personal website -->
 
 ## Recent News 🔥
+- [Jun. 2024] I am excited to join the [SHI Lab](https://www.shi-labs.com/) as a graduate student at Atlanta 🇺🇸
+- [Jun. 2024] Served as a reviewer for 6 papers submitted to NeurIPS'24
 - [Apr. 2024] One paper "Artifact Does Matter! Low-artifact High-resolution Virtual Try-On via Diffusion-based Warp-and-Fuse Consistent Texture" got the Best Paper Runner-Up Award at [CVPRW'24](https://sites.google.com/view/cvfad2024/home?authuser=0)! Welcome to chat with our team in Seattle 🇺🇸
 - [Apr. 2024] Served as a reviewer for 4 papers submitted to ECCV'24
-- [Mar. 2024] Served as a reviewer for [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
-- [Mar. 2024] Served as an emergency reviewer for 3 papers submitted to ICME'24
+<!-- - [Mar. 2024] Served as a reviewer for [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046) -->
+<!-- - [Mar. 2024] Served as an emergency reviewer for 3 papers submitted to ICME'24 -->
 - [Jan. 2024] Served as a reviewer for 6 papers submitted to CVPR'24 
 - [Aug. 2023] 🙏 Received ICCV Diversity, Equity & Inclusion Award with travel grant and free registration. Thanks ICCV’23 DEI Committee!
 - [Jul. 2023] One co-first-author paper "[Size Does Matter: Size-aware Virtual Try-on via Clothing-oriented Transformation Try-on Network](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Size_Does_Matter_Size-aware_Virtual_Try-on_via_Clothing-oriented_Transformation_Try-on_ICCV_2023_paper.pdf)" [[Code](https://github.com/cotton6/COTTON-size-does-matter)] got accepted at [ICCV](https://iccv2023.thecvf.com/home)! Let's meet at Paris 🇫🇷
@@ -82,12 +86,12 @@ Let's have a (virtual) coffee chat about interesting topics.
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
     <td style="width: 20%; border: 0px solid black; padding: 8px;">
-      <img src="../images/logo/epoch_logo.png" alt="epoch_logo">
+      <img src="../images/logo/GTVertical_RGB.png" alt="epoch_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Volunteer Research Assistant</strong>
     <br><span style="font-size: 16px;">
-    <a href="https://epoch.org.tw/en/" target="_blank">Epoch Foundation</a> in Taiwan</span>
-    <br><span style="font-size: 14px;">Jul. 2023 - Present</span>
+    <a href="https://epoch.org.tw/en/" target="_blank">SHI Lab</a> in <a href="https://www.gatech.edu/" target="_blank"> Georgia Tech</a> in Atlanta 🇺🇸</span>
+    <br><span style="font-size: 14px;">Jun. 2024 - Present</span>
     </td>
   </tr>
 </table>
@@ -95,11 +99,37 @@ Let's have a (virtual) coffee chat about interesting topics.
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
     <td style="width: 20%; border: 0px solid black; padding: 8px;">
-      <img src="../images/logo/NYCU_logo.jpg" alt="NYCU_logo">
+      <img src="../images/logo/GTVertical_RGB.png" alt="epoch_logo">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Teaching Assistant</strong>
+    <br><span style="font-size: 16px;">
+    <a href="https://www.gatech.edu/" target="_blank"> Georgia Tech</a> in Atlanta 🇺🇸</span>
+    <br><span style="font-size: 14px;"> 2024 Fall</span>
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 20%; border: 0px solid black; padding: 8px;">
+      <img src="../images/logo/epoch_logo.png" alt="epoch_logo">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Volunteer Research Assistant</strong>
+    <br><span style="font-size: 16px;">
+    <a href="https://epoch.org.tw/en/" target="_blank">Epoch Foundation</a> in Taiwan 🇹🇼</span>
+    <br><span style="font-size: 14px;">Jul. 2023 - Jun. 2024</span>
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 20%; border: 0px solid black; padding: 8px;">
+      <img src="../images/logo/NYCU_logo_adjusted.png" alt="NYCU_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Research Assistant</strong>
-    <br><span style="font-size: 16px;"> <a href="https://basiclab.lab.nycu.edu.tw/Yummy/index.html" target="_blank">Basic Lab</a> in <a href="https://www.nycu.edu.tw/nycu/en/index" target="_blank">National Yang Ming Chiao Tung University</a> in Taiwan</span>
-    <br><span style="font-size: 14px;">Aug. 2023 - Present</span>
+    <br><span style="font-size: 16px;"> <a href="https://basiclab.lab.nycu.edu.tw/Yummy/index.html" target="_blank">Basic Lab</a> in <a href="https://www.nycu.edu.tw/nycu/en/index" target="_blank">National Yang Ming Chiao Tung University</a> in Taiwan 🇹🇼</span>
+    <br><span style="font-size: 14px;">Aug. 2023 - Jun. 2024</span>
     </td>
   </tr>
 </table>
@@ -111,7 +141,7 @@ Let's have a (virtual) coffee chat about interesting topics.
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Research Assistant</strong>
     <br><span style="font-size: 16px;"> <a href="https://basiclab.lab.nycu.edu.tw/Yummy/index.html" target="_blank">Basic Lab</a> in 
-    <a href="https://www.sinica.edu.tw/en" target="_blank">Academia Sinica</a> in Taiwan</span>
+    <a href="https://www.sinica.edu.tw/en" target="_blank">Academia Sinica</a> in Taiwan 🇹🇼</span>
     <br><span style="font-size: 14px;">Mar. 2023 - Jul. 2023</span>
     </td>
   </tr>
@@ -124,7 +154,7 @@ Let's have a (virtual) coffee chat about interesting topics.
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Applied Scientist</strong>
     <br><span style="font-size: 16px;">
-    <a href="https://neurons-lab.com" target="_blank">Neurons Lab</a> in London</span>
+    <a href="https://neurons-lab.com" target="_blank">Neurons Lab</a> in London 🇬🇧</span>
     <br><span style="font-size: 14px;">Mar. 2023 - Mar. 2024</span>
     </td>
   </tr>
@@ -137,7 +167,7 @@ Let's have a (virtual) coffee chat about interesting topics.
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Founder & CEO</strong>
     <br><span style="font-size: 16px;">
-    <a href="https://stylins.ai/" target="_blank">Stylins.ai</a> in Taiwan</span>
+    <a href="https://stylins.ai/" target="_blank">Stylins.ai</a> in Taiwan 🇹🇼</span>
     <br><span style="font-size: 14px;">Nov. 2021 - Feb. 2023</span>
     </td>
   </tr>
@@ -150,12 +180,12 @@ Let's have a (virtual) coffee chat about interesting topics.
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Machine Learning Engineer</strong>
     <br><span style="font-size: 16px;">
-    <a href="https://www.perfectcorp.com/business" target="_blank">Perfect Corp.</a> in Taiwan</span>
+    <a href="https://www.perfectcorp.com/business" target="_blank">Perfect Corp.</a> in Taiwan 🇹🇼</span>
     <br><span style="font-size: 14px;">Sep. 2021 - Oct. 2021</span>
     </td>
   </tr>
 </table>
-
+<!-- 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
     <td style="width: 20%; border: 0px solid black; padding: 8px;">
@@ -163,24 +193,24 @@ Let's have a (virtual) coffee chat about interesting topics.
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Research Assistant</strong>
     <br><span style="font-size: 16px;">
-    <a href="https://aimm.lab.nycu.edu.tw/" target="_blank">AIMM Lab</a> in National Chiao Tung University in Taiwan</span>
+    <a href="https://aimm.lab.nycu.edu.tw/" target="_blank">AIMM Lab</a> in National Chiao Tung University in Taiwan 🇹🇼</span>
     <br><span style="font-size: 14px;">Jul. 2021 - Aug. 2021</span>
     </td>
   </tr>
-</table>
+</table> -->
 
-<table style="width: 100%; border-collapse: collapse; border: 0;">
+<!-- <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
     <td style="width: 20%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/NCTU_logo_chinese.jpeg" alt="NCTU_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Student Researcher</strong>
     <br><span style="font-size: 16px;">
-    <a href="https://aimm.lab.nycu.edu.tw/" target="_blank">AIMM Lab</a> in National Chiao Tung University in Taiwan</span>
+    <a href="https://aimm.lab.nycu.edu.tw/" target="_blank">AIMM Lab</a> in National Chiao Tung University in Taiwan 🇹🇼</span>
     <br><span style="font-size: 14px;">Jul. 2019 - Jun. 2021</span>
     </td>
   </tr>
-</table>
+</table> -->
 
 
 ## Education
@@ -188,7 +218,20 @@ Let's have a (virtual) coffee chat about interesting topics.
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
     <td style="width: 20%; border: 0px solid black; padding: 8px;">
-      <img src="../images/logo/NYCU_logo.jpg" alt="NCTU_logo">
+      <img src="../images/logo/GTVertical_RGB.png" alt="epoch_logo">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Graduate student, School of Interactive Computing</strong>
+    <br><span style="font-size: 16px;">
+    Georgia Institute of Technology in United States</span>
+    <br><span style="font-size: 14px;">Aug. 2024 - Present</span>
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 20%; border: 0px solid black; padding: 8px;">
+      <img src="../images/logo/NYCU_logo_adjusted.png" alt="NCTU_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">M.S., Institute of Electronics</strong>
     <br><span style="font-size: 16px;">National Yang Ming Chiao Tung University in Taiwan</span>
