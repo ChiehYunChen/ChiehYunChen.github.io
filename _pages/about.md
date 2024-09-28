@@ -24,6 +24,7 @@ Let's have a (virtual) coffee chat about interesting topics.
 <!-- A data-driven personal website -->
 
 ## Recent News 🔥
+- [Sep. 2024] One first-author paper "A Cat Is A Cat (Not A Dog!): Unraveling Information Mix-ups in Text-to-Image Encoders through Causal Analysis and Embedding Optimization" got accepted at [NeurIPS'24](https://neurips.cc/)! Let's meet at Vancouver 🇨🇦
 - [Jun. 2024] I am excited to join the [SHI Lab](https://www.shi-labs.com/) as a graduate student at Atlanta 🇺🇸
 - [Jun. 2024] Served as a reviewer for 6 papers submitted to NeurIPS'24
 - [Apr. 2024] One paper "[Artifact Does Matter! Low-artifact High-resolution Virtual Try-On via Diffusion-based Warp-and-Fuse Consistent Texture](https://basiclab.lab.nycu.edu.tw/assets/LA-VTON.pdf)" got the **Best Paper Runner-Up Award** at [CVPRW'24](https://sites.google.com/view/cvfad2024/home?authuser=0)! Welcome to chat with our team in Seattle 🇺🇸
