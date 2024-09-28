@@ -39,7 +39,9 @@ Let's have a (virtual) coffee chat about interesting topics.
 
 ## Recent News 🔥
 
+
 <div style="font-size: 12px;"> 
+
 
 - [Sep. 2024] One first-author paper "A Cat Is A Cat (Not A Dog!): Unraveling Information Mix-ups in Text-to-Image Encoders through Causal Analysis and Embedding Optimization" got accepted at [NeurIPS'24](https://neurips.cc/)! Let's meet at Vancouver 🇨🇦
 - [Jun. 2024] I am excited to join the [SHI Lab](https://www.shi-labs.com/) as a graduate student at Atlanta 🇺🇸
@@ -70,7 +72,10 @@ Let's have a (virtual) coffee chat about interesting topics.
 - [Mar. 2021] Served as a reviewer for [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
 - [Jan. 2021] Served as a reviewer for [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046) -->
 
+
 <div>
+
+
 
 ## Awards
 - **[Research] ICCV Diversity, Equity & Inclusion Award** with travel grant and free registration, 2023
