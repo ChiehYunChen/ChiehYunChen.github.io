@@ -41,18 +41,18 @@ Let's have a (virtual) coffee chat about interesting topics.
 
 
 <div style="font-size: 12px;"> 
+<ul>
 
-
-- [Sep. 2024] One first-author paper "A Cat Is A Cat (Not A Dog!): Unraveling Information Mix-ups in Text-to-Image Encoders through Causal Analysis and Embedding Optimization" got accepted at [NeurIPS'24](https://neurips.cc/)! Let's meet at Vancouver 🇨🇦
-- [Jun. 2024] I am excited to join the [SHI Lab](https://www.shi-labs.com/) as a graduate student at Atlanta 🇺🇸
-- [Jun. 2024] Served as a reviewer for 6 papers submitted to NeurIPS'24
-- [Apr. 2024] One paper "[Artifact Does Matter! Low-artifact High-resolution Virtual Try-On via Diffusion-based Warp-and-Fuse Consistent Texture](https://basiclab.lab.nycu.edu.tw/assets/LA-VTON.pdf)" got the **Best Paper Runner-Up Award** at [CVPRW'24](https://sites.google.com/view/cvfad2024/home?authuser=0)! Welcome to chat with our team in Seattle 🇺🇸
-- [Apr. 2024] Served as a reviewer for 4 papers submitted to ECCV'24
+<li> [Sep. 2024] One first-author paper "A Cat Is A Cat (Not A Dog!): Unraveling Information Mix-ups in Text-to-Image Encoders through Causal Analysis and Embedding Optimization" got accepted at <a href="https://neurips.cc/">NeurIPS'24</a>! Let's meet at Vancouver 🇨🇦
+<li> [Jun. 2024] I am excited to join the <a href="https://www.shi-labs.com/">SHI Lab</a> as a graduate student at Atlanta 🇺🇸
+<li> [Jun. 2024] Served as a reviewer for 6 papers submitted to NeurIPS'24
+<li> [Apr. 2024] One paper "<a href="https://basiclab.lab.nycu.edu.tw/assets/LA-VTON.pdf">Artifact Does Matter! Low-artifact High-resolution Virtual Try-On via Diffusion-based Warp-and-Fuse Consistent Texture</a>" got the <strong>Best Paper Runner-Up Award</strong> at <a href="https://sites.google.com/view/cvfad2024/home?authuser=0">CVPRW'24</a>! Welcome to chat with our team in Seattle 🇺🇸
+<li> [Apr. 2024] Served as a reviewer for 4 papers submitted to ECCV'24
 <!-- - [Mar. 2024] Served as a reviewer for [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046) -->
 <!-- - [Mar. 2024] Served as an emergency reviewer for 3 papers submitted to ICME'24 -->
-- [Jan. 2024] Served as a reviewer for 6 papers submitted to CVPR'24 
-- [Aug. 2023] 🙏 Received ICCV Diversity, Equity & Inclusion Award with travel grant and free registration. Thanks ICCV’23 DEI Committee!
-- [Jul. 2023] One co-first-author paper "[Size Does Matter: Size-aware Virtual Try-on via Clothing-oriented Transformation Try-on Network](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Size_Does_Matter_Size-aware_Virtual_Try-on_via_Clothing-oriented_Transformation_Try-on_ICCV_2023_paper.pdf)" [[Code](https://github.com/cotton6/COTTON-size-does-matter)] got accepted at [ICCV](https://iccv2023.thecvf.com/home)! Let's meet at Paris 🇫🇷
+<li> [Jan. 2024] Served as a reviewer for 6 papers submitted to CVPR'24 
+<li> [Aug. 2023] 🙏 Received ICCV Diversity, Equity & Inclusion Award with travel grant and free registration. Thanks ICCV’23 DEI Committee!
+<li> [Jul. 2023] One co-first-author paper "<a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Size_Does_Matter_Size-aware_Virtual_Try-on_via_Clothing-oriented_Transformation_Try-on_ICCV_2023_paper.pdf">Size Does Matter: Size-aware Virtual Try-on via Clothing-oriented Transformation Try-on Network</a>" [<a href="https://github.com/cotton6/COTTON-size-does-matter">Code</a>] got accepted at <a href="https://iccv2023.thecvf.com/home">ICCV'23</a>! Let's meet at Paris 🇫🇷
 
 <!-- - [Apr. 2023] Served as a reviewer for [TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
 - [Mar. 2023] Served as a reviewer for [TOMM](https://dl.acm.org/journal/tomm)
