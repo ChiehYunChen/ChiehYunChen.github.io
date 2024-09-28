@@ -7,12 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div style="font-size: 12px;"> 
 
-GenAI researcher, cooking interesting ideas. 
+GenAI researcher, cooking interesting ideas.
+
+I am now the graduate student in Georgia Tech, advised by [Prof. Humphrey Shi](https://www.humphreyshi.com/), researching Video Understanding and Synthesis. Previously, I received the MS in 2021 and BS in 2020 at National Chiao Tung University, advised by [Prof. Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/) and [Prof. Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/).
 
 <!-- I received the MS from the Institute of Electronics at National (Yang Ming) Chiao Tung University in 2021, advised by [Prof. Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/) and [Prof. Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/) and BS from the Department of Electrophysics at National Chiao Tung University in 2020.  -->
 
-I am now the graduate student in Georgia Tech, advised by [Prof. Humphrey Shi](https://www.humphreyshi.com/), researching Video Understanding and Synthesis. Previously, I received the MS in 2021 and BS in 2020 at National Chiao Tung University, advised by [Prof. Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/) and [Prof. Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/).
 
 I am deeply passionate about generative AI, with a specific emphasis on Computer Vision and Image/Video Synthesis, Editing, and Understanding. Throughout my research journey, I've been driven by the potential and transformative capabilities of these domains to create impactful and user-centric solutions.
 
@@ -81,6 +83,8 @@ Let's have a (virtual) coffee chat about interesting topics.
 - **[Research] College Student Research Creativity Award ($2,200)**, Ministry of Science and Technology (MOST), 2020
 
 - **[Research] Best Paper Award** in IPPR Conference on Computer Vision, Graphics, and Image Processing (CVGIP), 2019
+
+<div>
 
 ## Work Experience
 
