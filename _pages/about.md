@@ -23,6 +23,8 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
 🤗 Feel free to contact me (<cychenisme@gmail.com>). 
 Let's have a (virtual) coffee chat about interesting topics.
 
+<div>
+
 <!-- A data-driven personal website -->
 
 ## Recent News 🔥
