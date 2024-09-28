@@ -9,25 +9,38 @@ redirect_from:
 ---
 <div style="font-size: 12px;"> 
 
-GenAI researcher, cooking interesting ideas.
+<p> 
+GenAI researcher, cooking interesting ideas. 
+</p>
 
-I am now the graduate student in Georgia Tech, advised by [Prof. Humphrey Shi](https://www.humphreyshi.com/), researching Video Understanding and Synthesis. Previously, I received the MS in 2021 and BS in 2020 at National Chiao Tung University, advised by [Prof. Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/) and [Prof. Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/).
+<p> 
+I am now the graduate student in Georgia Tech, advised by <a href="https://www.humphreyshi.com/">Prof. Humphrey Shi</a>, researching Video Understanding and Synthesis. Previously, I received the MS in 2021 and BS in 2020 at National Chiao Tung University, advised by <a href="https://www.csie.ntu.edu.tw/~wenhuang/">Prof. Wen-Huang Cheng</a> and <a href="https://basiclab.lab.nycu.edu.tw/">Prof. Hong-Han Shuai</a>. 
+</p>
 
 <!-- I received the MS from the Institute of Electronics at National (Yang Ming) Chiao Tung University in 2021, advised by [Prof. Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/) and [Prof. Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/) and BS from the Department of Electrophysics at National Chiao Tung University in 2020.  -->
 
 
-I am deeply passionate about generative AI, with a specific emphasis on Computer Vision and Image/Video Synthesis, Editing, and Understanding. Throughout my research journey, I've been driven by the potential and transformative capabilities of these domains to create impactful and user-centric solutions.
+<p> 
+I am deeply passionate about generative AI, with a specific emphasis on Computer Vision and Image/Video Synthesis, Editing, and Understanding. Throughout my research journey, I've been driven by the potential and transformative capabilities of these domains to create impactful and user-centric solutions. 
+</p>
 
-My works have appeared in top-tier conferences and journals such as CVPR, ICCV, NeurIPS, ACMMM, TNNLS, and ACM CSUR. I've served as the invited reviewer for CVPR, ECCV, NeurIPS, IEEE TNNLS, IEEE TMM, IEEE TCSVT, and ACM ToMM.
+<p> 
+My works have appeared in top-tier conferences and journals such as CVPR, ICCV, NeurIPS, ACMMM, TNNLS, and ACM CSUR. I've served as the invited reviewer for CVPR, ECCV, NeurIPS, IEEE TNNLS, IEEE TMM, IEEE TCSVT, and ACM ToMM. 
+</p>
 
-🤗 Feel free to contact me (<cychenisme@gmail.com>). 
-Let's have a (virtual) coffee chat about interesting topics.
+<p> 
+🤗 Feel free to contact me: 📥 <a href="mailto:cychenisme@gmail.com">cychenisme@gmail.com</a>.  <br>
+Let's have a (virtual) coffee chat about interesting topics. 
+</p>
 
 <div>
 
 <!-- A data-driven personal website -->
 
 ## Recent News 🔥
+
+<div style="font-size: 12px;"> 
+
 - [Sep. 2024] One first-author paper "A Cat Is A Cat (Not A Dog!): Unraveling Information Mix-ups in Text-to-Image Encoders through Causal Analysis and Embedding Optimization" got accepted at [NeurIPS'24](https://neurips.cc/)! Let's meet at Vancouver 🇨🇦
 - [Jun. 2024] I am excited to join the [SHI Lab](https://www.shi-labs.com/) as a graduate student at Atlanta 🇺🇸
 - [Jun. 2024] Served as a reviewer for 6 papers submitted to NeurIPS'24
@@ -57,6 +70,7 @@ Let's have a (virtual) coffee chat about interesting topics.
 - [Mar. 2021] Served as a reviewer for [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
 - [Jan. 2021] Served as a reviewer for [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046) -->
 
+<div>
 
 ## Awards
 - **[Research] ICCV Diversity, Equity & Inclusion Award** with travel grant and free registration, 2023
@@ -86,7 +100,6 @@ Let's have a (virtual) coffee chat about interesting topics.
 
 - **[Research] Best Paper Award** in IPPR Conference on Computer Vision, Graphics, and Image Processing (CVGIP), 2019
 
-<div>
 
 ## Work Experience
 
