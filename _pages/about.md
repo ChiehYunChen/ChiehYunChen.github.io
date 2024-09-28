@@ -7,52 +7,33 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="font-size: 12px;"> 
 
-<p> 
 GenAI researcher, cooking interesting ideas. 
-</p>
-
-<p> 
-I am now the graduate student in Georgia Tech, advised by <a href="https://www.humphreyshi.com/">Prof. Humphrey Shi</a>, researching Video Understanding and Synthesis. Previously, I received the MS in 2021 and BS in 2020 at National Chiao Tung University, advised by <a href="https://www.csie.ntu.edu.tw/~wenhuang/">Prof. Wen-Huang Cheng</a> and <a href="https://basiclab.lab.nycu.edu.tw/">Prof. Hong-Han Shuai</a>. 
-</p>
 
 <!-- I received the MS from the Institute of Electronics at National (Yang Ming) Chiao Tung University in 2021, advised by [Prof. Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/) and [Prof. Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/) and BS from the Department of Electrophysics at National Chiao Tung University in 2020.  -->
 
+I am now the graduate student in Georgia Tech, advised by [Prof. Humphrey Shi](https://www.humphreyshi.com/), researching Video Understanding and Synthesis. Previously, I received the MS in 2021 and BS in 2020 at National Chiao Tung University, advised by [Prof. Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/) and [Prof. Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/).
 
-<p> 
-I am deeply passionate about generative AI, with a specific emphasis on Computer Vision and Image/Video Synthesis, Editing, and Understanding. Throughout my research journey, I've been driven by the potential and transformative capabilities of these domains to create impactful and user-centric solutions. 
-</p>
+I am deeply passionate about generative AI, with a specific emphasis on Computer Vision and Image/Video Synthesis, Editing, and Understanding. Throughout my research journey, I've been driven by the potential and transformative capabilities of these domains to create impactful and user-centric solutions.
 
-<p> 
-My works have appeared in top-tier conferences and journals such as CVPR, ICCV, NeurIPS, ACMMM, TNNLS, and ACM CSUR. I've served as the invited reviewer for CVPR, ECCV, NeurIPS, IEEE TNNLS, IEEE TMM, IEEE TCSVT, and ACM ToMM. 
-</p>
+My works have appeared in top-tier conferences and journals such as CVPR, ICCV, NeurIPS, ACMMM, TNNLS, and ACM CSUR. I've served as the invited reviewer for CVPR, ECCV, NeurIPS, IEEE TNNLS, IEEE TMM, IEEE TCSVT, and ACM ToMM.
 
-<p> 
-🤗 Feel free to contact me: 📥 <a href="mailto:cychenisme@gmail.com">cychenisme@gmail.com</a>.  <br>
-Let's have a (virtual) coffee chat about interesting topics. 
-</p>
-
-<div>
+🤗 Feel free to contact me: 📩 [cychenisme@gmail.com](mailto:cychenisme@gmail.com). 
+Let's have a (virtual) coffee chat about interesting topics.
 
 <!-- A data-driven personal website -->
 
 ## Recent News 🔥
-
-
-<div style="font-size: 12px;"> 
-<ul>
-
-<li> [Sep. 2024] One first-author paper "A Cat Is A Cat (Not A Dog!): Unraveling Information Mix-ups in Text-to-Image Encoders through Causal Analysis and Embedding Optimization" got accepted at <a href="https://neurips.cc/">NeurIPS'24</a>! Let's meet at Vancouver 🇨🇦
-<li> [Jun. 2024] I am excited to join the <a href="https://www.shi-labs.com/">SHI Lab</a> as a graduate student at Atlanta 🇺🇸
-<li> [Jun. 2024] Served as a reviewer for 6 papers submitted to NeurIPS'24
-<li> [Apr. 2024] One paper "<a href="https://basiclab.lab.nycu.edu.tw/assets/LA-VTON.pdf">Artifact Does Matter! Low-artifact High-resolution Virtual Try-On via Diffusion-based Warp-and-Fuse Consistent Texture</a>" got the <strong>Best Paper Runner-Up Award</strong> at <a href="https://sites.google.com/view/cvfad2024/home?authuser=0">CVPRW'24</a>! Welcome to chat with our team in Seattle 🇺🇸
-<li> [Apr. 2024] Served as a reviewer for 4 papers submitted to ECCV'24
+- [Sep. 2024] One first-author paper "A Cat Is A Cat (Not A Dog!): Unraveling Information Mix-ups in Text-to-Image Encoders through Causal Analysis and Embedding Optimization" got accepted at [NeurIPS'24](https://neurips.cc/)! Let's meet at Vancouver 🇨🇦
+- [Jun. 2024] I am excited to join the [SHI Lab](https://www.shi-labs.com/) as a graduate student at Atlanta 🇺🇸
+- [Jun. 2024] Served as a reviewer for 6 papers submitted to NeurIPS'24
+- [Apr. 2024] One paper "[Artifact Does Matter! Low-artifact High-resolution Virtual Try-On via Diffusion-based Warp-and-Fuse Consistent Texture](https://basiclab.lab.nycu.edu.tw/assets/LA-VTON.pdf)" got the **Best Paper Runner-Up Award** at [CVPRW'24](https://sites.google.com/view/cvfad2024/home?authuser=0)! Welcome to chat with our team in Seattle 🇺🇸
+- [Apr. 2024] Served as a reviewer for 4 papers submitted to ECCV'24
 <!-- - [Mar. 2024] Served as a reviewer for [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046) -->
 <!-- - [Mar. 2024] Served as an emergency reviewer for 3 papers submitted to ICME'24 -->
-<li> [Jan. 2024] Served as a reviewer for 6 papers submitted to CVPR'24 
-<li> [Aug. 2023] 🙏 Received ICCV Diversity, Equity & Inclusion Award with travel grant and free registration. Thanks ICCV’23 DEI Committee!
-<li> [Jul. 2023] One co-first-author paper "<a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Size_Does_Matter_Size-aware_Virtual_Try-on_via_Clothing-oriented_Transformation_Try-on_ICCV_2023_paper.pdf">Size Does Matter: Size-aware Virtual Try-on via Clothing-oriented Transformation Try-on Network</a>" [<a href="https://github.com/cotton6/COTTON-size-does-matter">Code</a>] got accepted at <a href="https://iccv2023.thecvf.com/home">ICCV'23</a>! Let's meet at Paris 🇫🇷
+- [Jan. 2024] Served as a reviewer for 6 papers submitted to CVPR'24 
+- [Aug. 2023] 🙏 Received ICCV Diversity, Equity & Inclusion Award with travel grant and free registration. Thanks ICCV’23 DEI Committee!
+- [Jul. 2023] One co-first-author paper "[Size Does Matter: Size-aware Virtual Try-on via Clothing-oriented Transformation Try-on Network](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Size_Does_Matter_Size-aware_Virtual_Try-on_via_Clothing-oriented_Transformation_Try-on_ICCV_2023_paper.pdf)" [[Code](https://github.com/cotton6/COTTON-size-does-matter)] got accepted at [ICCV](https://iccv2023.thecvf.com/home)! Let's meet at Paris 🇫🇷
 
 <!-- - [Apr. 2023] Served as a reviewer for [TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
 - [Mar. 2023] Served as a reviewer for [TOMM](https://dl.acm.org/journal/tomm)
@@ -71,10 +52,6 @@ Let's have a (virtual) coffee chat about interesting topics.
 - [May. 2021] Served as a reviewer for [TOMM](https://dl.acm.org/journal/tomm)
 - [Mar. 2021] Served as a reviewer for [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
 - [Jan. 2021] Served as a reviewer for [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046) -->
-
-
-<div>
-
 
 
 ## Awards
@@ -104,7 +81,6 @@ Let's have a (virtual) coffee chat about interesting topics.
 - **[Research] College Student Research Creativity Award ($2,200)**, Ministry of Science and Technology (MOST), 2020
 
 - **[Research] Best Paper Award** in IPPR Conference on Computer Vision, Graphics, and Image Processing (CVGIP), 2019
-
 
 ## Work Experience
 
