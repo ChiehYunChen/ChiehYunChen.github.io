@@ -126,3 +126,7 @@ author_profile: true
 
   * IEE5741 [Applied Computer Vision](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=110&Sem=1&CrsNo=5043&lang=zh-tw) [English Medium Course], Fall 2020, National Chiao Tung University
 <br> Instructor: Prof. Wen-Huang Cheng
+
+- Mentorship
+  * [Project TYRA (Taiwanese Young Researcher Association)](https://sites.google.com/view/projecttyra/home), Fall 2025
+  <br> Mentoring 1 Taiwanese student to apply for PhD program in USA
