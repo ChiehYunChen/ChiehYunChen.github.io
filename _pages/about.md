@@ -9,12 +9,13 @@ redirect_from:
 ---
 
 GenAI researcher, cooking interesting ideas. 
+**<span style="color:red"> I am actively looking for 2025 summer research intership in USA. </span>**
 
 <!-- I received the MS from the Institute of Electronics at National (Yang Ming) Chiao Tung University in 2021, advised by [Prof. Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/) and [Prof. Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/) and BS from the Department of Electrophysics at National Chiao Tung University in 2020.  -->
 
 I am now the graduate student in Georgia Tech, advised by [Prof. Humphrey Shi](https://www.humphreyshi.com/), researching Video Understanding and Synthesis. Previously, I received the MS in 2021 and BS in 2020 at National Chiao Tung University, advised by [Prof. Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/) and [Prof. Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/).
 
-I am deeply passionate about generative AI, with a specific emphasis on Computer Vision and Image/Video Synthesis, Editing, and Understanding. Throughout my research journey, I've been driven by the potential and transformative capabilities of these domains to create impactful and user-centric solutions.
+I am deeply passionate about generative AI in multimodal large language models, specifically text-guided Image/Video Synthesis, Editing, and Understanding. Throughout my research journey, I've been driven by the potential and transformative capabilities of these domains to create impactful and user-centric solutions.
 
 My works have appeared in top-tier conferences and journals such as CVPR, ICCV, NeurIPS, ACMMM, TNNLS, and ACM CSUR. I've served as the invited reviewer for CVPR, ECCV, NeurIPS, IEEE TNNLS, IEEE TMM, IEEE TCSVT, and ACM ToMM.
 
