@@ -10,7 +10,7 @@ redirect_from:
 
 GenAI researcher, cooking interesting ideas. 
 
-**<span style="color:red"> I am actively looking for 2025 summer research intership. </span>**
+**<span style="color:red"> I am actively looking for 2025 Spring/Summer research internship. </span>**
 
 <!-- I received the MS from the Institute of Electronics at National (Yang Ming) Chiao Tung University in 2021, advised by [Prof. Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/) and [Prof. Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/) and BS from the Department of Electrophysics at National Chiao Tung University in 2020.  -->
 
