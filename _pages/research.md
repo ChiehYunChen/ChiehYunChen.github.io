@@ -10,6 +10,37 @@ author_profile: true
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
     <td style="width: 40%; border: 0px solid black; padding: 8px;">
+      <img src="../images/publications/TEBOpt_arc.png" alt="TEBOpt">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">A Cat Is A Cat (Not A Dog!): Unraveling Information Mix-ups in Text-to-Image Encoders through Causal Analysis and Embedding Optimization</strong>
+    <br><span style="font-size: 16px;"><strong>Chieh-Yun Chen</strong>, Chiang Tseng, Li-Wu Tsao, and Hong-Han Shuai</span> 
+    <br><span style="font-size: 14px;"><em>The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024 </em></span>
+    <br> <a href="https://arxiv.org/pdf/2410.00321" target="_blank">Paper</a> | 
+      <a href="https://github.com/basiclab/Unraveling-Information-Mix-ups" target="_blank">Code</a> | 
+      <a href="https://neurips.cc/virtual/2024/poster/94705" target="_blank">Website</a>
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 40%; border: 0px solid black; padding: 8px;">
+      <img src="../images/publications/LA_VTON_banner.jpg" alt="LAVTON">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Artifact Does Matter! Low-artifact High-resolution Virtual Try-On via Diffusion-based Warp-and-Fuse Consistent Texture</strong>
+    <br><span style="font-size: 16px;">Chiang Tseng, <strong>Chieh-Yun Chen</strong>, and Hong-Han Shuai</span> 
+    <br><span style="font-size: 14px;"><a href="https://sites.google.com/view/cvfad2024/home?authuser=0" target="_blank"><em>The 7th Workshop on Computer Vision for Fashion, Art, and Design in IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPRW), 2024 </em></a></span> 
+    <br><span style="font-size: 14px; color: #f1948a;"> Runner-Up of the Best Paper Award </span> 
+    <br> <a href="https://basiclab.lab.nycu.edu.tw/assets/LA-VTON.pdf" target="_blank">Paper</a> | 
+      <a href="https://drive.google.com/file/d/1NqLnynUmvxfQJ2BGDnxXMauj8vkFIxsS/view" target="_blank">Poster</a> | 
+      <a href="https://drive.google.com/file/d/1FtbpFA0QIetjgHjpviUwlfCXjUAtVLad/view" target="_blank">Video</a>
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
+    <td style="width: 40%; border: 0px solid black; padding: 8px;">
       <img src="../images/publications/COTTON_size_manipulation_demo.gif" alt="COTTON-thumbnail">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Size Does Matter: Size-aware Virtual Try-on via Clothing-oriented Transformation Try-on Network</strong>
