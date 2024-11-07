@@ -17,7 +17,8 @@ author_profile: true
     <br><span style="font-size: 14px;"><em>The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024 </em></span>
     <br> <a href="https://arxiv.org/pdf/2410.00321" target="_blank">Paper</a> | 
       <a href="https://github.com/basiclab/Unraveling-Information-Mix-ups" target="_blank">Code</a> | 
-      <a href="https://neurips.cc/virtual/2024/poster/94705" target="_blank">Website</a>
+      <a href="https://neurips.cc/virtual/2024/poster/94705" target="_blank">Website</a> | 
+      <a href="https://recorder-v3.slideslive.com/?share=93216&s=59c83ce6-deaf-4f6d-8e89-3bf9eb5a0e0d" target="_blank">Video</a> 
     </td>
   </tr>
 </table>
