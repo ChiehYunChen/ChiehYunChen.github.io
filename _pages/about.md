@@ -57,6 +57,8 @@ Let's have a (virtual) coffee chat about interesting topics.
 
 
 ## Awards
+- **[Research] NeurIPS Scholar Award**, 2024
+
 - **[Research] ICCV Diversity, Equity & Inclusion Award** with travel grant and free registration, 2023
 
 - **[Startup] Excellent Award ($1,950)**, Mobilehero Networked Future Challenge, 2022
