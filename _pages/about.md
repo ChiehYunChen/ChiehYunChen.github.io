@@ -86,7 +86,7 @@ Let's have a (virtual) coffee chat about interesting topics.
 
 ## Work Experience
 
-<table style="width: 100%; border-collapse: collapse; border: 0;">
+<!-- <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
     <td style="width: 20%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/GTVertical_RGB.png" alt="epoch_logo">
@@ -97,7 +97,7 @@ Let's have a (virtual) coffee chat about interesting topics.
     <br><span style="font-size: 14px;">Jun. 2024 - Present</span>
     </td>
   </tr>
-</table>
+</table> -->
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
@@ -107,6 +107,7 @@ Let's have a (virtual) coffee chat about interesting topics.
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Teaching Assistant</strong>
     <br><span style="font-size: 16px;">
     <a href="https://www.gatech.edu/" target="_blank"> Georgia Tech</a> in Atlanta 🇺🇸</span>
+    <br><span style="font-size: 14px;"><a href="https://www.humphreyshi.com/vision" target="_blank"> CS 6476 Computer Vision</a></span>
     <br><span style="font-size: 14px;"> 2024 Fall</span>
     </td>
   </tr>
