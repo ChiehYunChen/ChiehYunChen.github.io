@@ -126,7 +126,7 @@ Let's have a (virtual) coffee chat about interesting topics.
     <td style="width: 20%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/epoch_logo.png" alt="epoch_logo">
     </td>
-    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Volunteer Research Assistant</strong>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Research Assistant</strong>
     <br><span style="font-size: 16px;">
     <a href="https://epoch.org.tw/en/" target="_blank">Epoch Foundation</a> in Taiwan 🇹🇼</span>
     <br><span style="font-size: 14px;">Jul. 2023 - Jun. 2024</span>
