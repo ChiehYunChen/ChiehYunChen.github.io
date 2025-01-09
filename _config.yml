@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chieh-Yun (Astrid) Chen"
+title                    : "Chieh-Yun Chen"
 title_separator          : "-"
-name                     : &name "Chieh-Yun (Astrid) Chen"
+name                     : &name "Chieh-Yun Chen"
 description              : &description "personal description"
 url                      : https://chiehyunchen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chieh-Yun (Astrid) Chen"
+  name             : "Chieh-Yun Chen"
   avatar           : "ChiehYun_statue23.jpg"
-  bio              : "GenAI Researcher, cooking interesting ideas"
+  bio              : "Cooking interesting ideas"
   location         : "Atlanta, USA"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

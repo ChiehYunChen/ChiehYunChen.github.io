@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I am Astrid Chen 👋🏻"
+title: "Hi, I am Chieh-Yun Chen 👋🏻"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-GenAI researcher, cooking interesting ideas. 
+Cooking interesting ideas. 
 
 <!-- I received the MS from the Institute of Electronics at National (Yang Ming) Chiao Tung University in 2021, advised by [Prof. Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/) and [Prof. Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/) and BS from the Department of Electrophysics at National Chiao Tung University in 2020.  -->
 
