@@ -153,6 +153,9 @@ author_profile: true
 
 
 - Teaching Assistant
+  * [OMSCS6476 Computer Vision](https://docs.google.com/spreadsheets/d/e/2PACX-1vQdFbC7_8UEsS_UkKhAmKfYgO5SnhQ_9YIn5WRxz_9KxmOzeWF32ApdLeA32yRkDDIz_Sb_4zK2HvKU/pubhtml), Spring 2025, Georgia Institute of Technology
+<br> Instructor: Prof. Irfan Essa
+
   * [CS6476 Computer Vision](https://www.humphreyshi.com/vision), Fall 2024, Georgia Institute of Technology
 <br> Instructor: Prof. Humphrey Shi
 

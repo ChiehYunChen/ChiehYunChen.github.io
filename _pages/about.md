@@ -107,8 +107,16 @@ Let's have a (virtual) coffee chat about interesting topics.
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Teaching Assistant</strong>
     <br><span style="font-size: 16px;">
     <a href="https://www.gatech.edu/" target="_blank"> Georgia Tech</a> in Atlanta 🇺🇸</span>
-    <br><span style="font-size: 14px;"><a href="https://www.humphreyshi.com/vision" target="_blank"> CS 6476 Computer Vision</a></span>
-    <br><span style="font-size: 14px;"> 2024 Fall</span>
+    <br>
+      <span style="font-size: 14px; display: inline-block; width: 100px; text-align: right;">[Spring 2025]</span>
+      <span style="font-size: 14px; display: inline-block; width: 200px; text-align: right;">
+          <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQdFbC7_8UEsS_UkKhAmKfYgO5SnhQ_9YIn5WRxz_9KxmOzeWF32ApdLeA32yRkDDIz_Sb_4zK2HvKU/pubhtml#" target="_blank">OMSCS 6476 Computer Vision</a>
+      </span>
+      <br>
+      <span style="font-size: 14px; display: inline-block; width: 100px; text-align: right;">[Fall 2024]</span>
+      <span style="font-size: 14px; display: inline-block; width: 200px; text-align: right;">
+          <a href="https://www.humphreyshi.com/vision" target="_blank">CS 6476 Computer Vision</a>
+      </span>
     </td>
   </tr>
 </table>
