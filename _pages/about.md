@@ -17,7 +17,7 @@ I am deeply passionate about generative AI in multimodal large language models, 
 My works have appeared in top-tier conferences and journals such as CVPR, ICCV, NeurIPS, ACMMM, TNNLS, and ACM CSUR. I've served as the invited reviewer for CVPR, ECCV, NeurIPS, IEEE TNNLS, IEEE TMM, IEEE TCSVT, and ACM ToMM.
 
 🤗 Feel free to contact me: 📩 [cychenisme@gmail.com](mailto:cychenisme@gmail.com). 
-Let's have a (virtual) coffee chat about interesting topics.
+<br>Let's have a (virtual) coffee chat about interesting topics.
 
 <!-- A data-driven personal website -->
 
