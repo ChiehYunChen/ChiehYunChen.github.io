@@ -10,11 +10,11 @@ redirect_from:
 
 <!-- I received the MS from the Institute of Electronics at National (Yang Ming) Chiao Tung University in 2021, advised by [Prof. Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/) and [Prof. Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/) and BS from the Department of Electrophysics at National Chiao Tung University in 2020.  -->
 
-I am now a Ph.D. student in Georgia Tech, advised by [Prof. Humphrey Shi](https://www.humphreyshi.com/), researching Video Understanding and Synthesis. Previously, I received the MS in 2021 and BS in 2020 at National Chiao Tung University, advised by [Prof. Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/) and [Prof. Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/).
+I am currently a Ph.D. student in Georgia Tech, advised by [Prof. Humphrey Shi](https://www.humphreyshi.com/), where I focus on user-centric tasks within Vision-related fields. Previously, I earned my M.S. in 2021 and B.S. in 2020 from National Chiao Tung University, advised by [Prof. Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/) and [Prof. Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/). Until 2023, my research focused on Image and Video Synthesis and Editing in Fashion, particularly Virtual Clothing Try-on.
 
-I am deeply passionate about generative AI in multimodal large language models, specifically Text-guided Image/Video Synthesis, Editing, and Understanding. Throughout my research journey, I've been driven by the potential and transformative capabilities of these domains to create impactful and user-centric solutions.
+I am deeply passionate about developing Aritifical General Intellegence and leveraging its transformative potential to create impactful, user-centric solutions.
 
-My works have appeared in top-tier conferences and journals such as CVPR, ICCV, NeurIPS, ACMMM, TNNLS, and ACM CSUR. I've served as the invited reviewer for CVPR, ECCV, NeurIPS, IEEE TNNLS, IEEE TMM, IEEE TCSVT, and ACM ToMM.
+My works have been published in top-tier conferences and journals, including CVPR, ICCV, NeurIPS, ACMMM, TNNLS, and ACM CSUR. I have served as an invited reviewer for CVPR, ECCV, NeurIPS, IEEE TNNLS, IEEE TMM, IEEE TCSVT, and ACM ToMM.
 
 🤗 Feel free to contact me: 📩 [cychenisme@gmail.com](mailto:cychenisme@gmail.com). 
 <br>Let's have a (virtual) coffee chat about interesting topics.
@@ -29,9 +29,9 @@ My works have appeared in top-tier conferences and journals such as CVPR, ICCV, 
 - [Apr. 2024] Served as a reviewer for 4 papers submitted to ECCV'24
 <!-- - [Mar. 2024] Served as a reviewer for [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046) -->
 <!-- - [Mar. 2024] Served as an emergency reviewer for 3 papers submitted to ICME'24 -->
-- [Jan. 2024] Served as a reviewer for 6 papers submitted to CVPR'24 
+<!-- - [Jan. 2024] Served as a reviewer for 6 papers submitted to CVPR'24 
 - [Aug. 2023] 🙏 Received ICCV Diversity, Equity & Inclusion Award with travel grant and free registration. Thanks ICCV’23 DEI Committee!
-- [Jul. 2023] One co-first-author paper "[Size Does Matter: Size-aware Virtual Try-on via Clothing-oriented Transformation Try-on Network](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Size_Does_Matter_Size-aware_Virtual_Try-on_via_Clothing-oriented_Transformation_Try-on_ICCV_2023_paper.pdf)" [[Code](https://github.com/cotton6/COTTON-size-does-matter)] got accepted at [ICCV](https://iccv2023.thecvf.com/home)! Let's meet at Paris 🇫🇷
+- [Jul. 2023] One co-first-author paper "[Size Does Matter: Size-aware Virtual Try-on via Clothing-oriented Transformation Try-on Network](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Size_Does_Matter_Size-aware_Virtual_Try-on_via_Clothing-oriented_Transformation_Try-on_ICCV_2023_paper.pdf)" [[Code](https://github.com/cotton6/COTTON-size-does-matter)] got accepted at [ICCV](https://iccv2023.thecvf.com/home)! Let's meet at Paris 🇫🇷 -->
 
 <!-- - [Apr. 2023] Served as a reviewer for [TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
 - [Mar. 2023] Served as a reviewer for [TOMM](https://dl.acm.org/journal/tomm)
