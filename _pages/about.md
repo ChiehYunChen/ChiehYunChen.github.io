@@ -22,6 +22,7 @@ My works have been published in top-tier conferences and journals, including CVP
 <!-- A data-driven personal website -->
 
 ## Recent News 🔥
+- [Mar. 2025] Upcoming Summer 2025 Internship @ [Adobe FireFly team](https://www.adobe.com/products/firefly.html)
 - [Sep. 2024] One first-author paper "[A Cat Is A Cat (Not A Dog!): Unraveling Information Mix-ups in Text-to-Image Encoders through Causal Analysis and Embedding Optimization](http://arxiv.org/abs/2410.00321)" got accepted at [NeurIPS'24](https://neurips.cc/)! Let's meet at Vancouver 🇨🇦
 - [Jun. 2024] I am excited to join the [SHI Labs](https://www.shi-labs.com/) as a Ph.D. student in Atlanta 🇺🇸
 - [Jun. 2024] Served as a reviewer for 6 papers submitted to NeurIPS'24
