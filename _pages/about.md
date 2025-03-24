@@ -21,7 +21,7 @@ My works have been published in top-tier conferences and journals, including CVP
 
 <!-- A data-driven personal website -->
 
-## Recent News 🔥
+### Recent News 🔥
 - [Mar. 2025] Upcoming Summer 2025 Research Internship @ [Adobe FireFly team](https://www.adobe.com/products/firefly.html)
 - [Sep. 2024] One first-author paper "[A Cat Is A Cat (Not A Dog!): Unraveling Information Mix-ups in Text-to-Image Encoders through Causal Analysis and Embedding Optimization](http://arxiv.org/abs/2410.00321)" got accepted at [NeurIPS'24](https://neurips.cc/)! Let's meet at Vancouver 🇨🇦
 - [Jun. 2024] I am excited to join the [SHI Labs](https://www.shi-labs.com/) as a Ph.D. student in Atlanta 🇺🇸
@@ -54,17 +54,12 @@ My works have been published in top-tier conferences and journals, including CVP
 - [Jan. 2021] Served as a reviewer for [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046) -->
 
 
-## Awards
+### Awards
 - **[Research] NeurIPS Scholar Award**, 2024
-
 - **[Research] ICCV Diversity, Equity & Inclusion Award** with travel grant and free registration, 2023
-
 - **[Startup] Excellent Award ($1,950)**, Mobilehero Networked Future Challenge, 2022
-
 - **[Startup] Google for Startups Cloud Program ($2,000)**, Google Cloud, 2022
-
 - **[Startup] U-start Plan for Innovation and Entrepreneurship ($11,373)**, Ministry of Education in Taiwan, 2022
-
 - **[Research] Master Thesis Award**
   -  IEEE Taipei Section, 2021
   -  Institution of Engineering and Technology (IET), 2021
@@ -73,18 +68,13 @@ My works have been published in top-tier conferences and journals, including CVP
   -  Taiwanese Association for Artificial Intelligence (TAAI), 2021
   -  Taiwan Association for Web Intelligence Consortium (WIC), 2021
   -  Institute of Information & Computing Machinery (IICM), 2021
-
 - **[Research] Outstanding Student Research Reward ($1,550)**, National Yang Ming Chiao Tung University (NYCU), 2021
-
 - **[Research] Future Tech Award ($325)**, Ministry of Science and Technology of Taiwan (MOST), 2021
-
 - **[Research] The 1<sup>st</sup> Place Award** in the Image-based Multi-pose Virtual Try-on Challenge of the 4<sup>th</sup> Look Into Person (LIP) Challenge in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020  [[Oral Video](https://www.youtube.com/watch?v=zloK9g6RvYk)]
-
 - **[Research] College Student Research Creativity Award ($2,200)**, Ministry of Science and Technology (MOST), 2020
-
 - **[Research] Best Paper Award** in IPPR Conference on Computer Vision, Graphics, and Image Processing (CVGIP), 2019
 
-## Work Experience
+### Work Experience
 
 <!-- <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
@@ -225,7 +215,7 @@ My works have been published in top-tier conferences and journals, including CVP
 </table> -->
 
 
-## Education
+### Education
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
