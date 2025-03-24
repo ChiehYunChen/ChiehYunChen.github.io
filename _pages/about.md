@@ -78,7 +78,7 @@ My works have been published in top-tier conferences and journals, including CVP
 
 <!-- <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="width: 20%; border: 0px solid black; padding: 8px;">
+    <td style="width: 18%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/GTVertical_RGB.png" alt="epoch_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">Volunteer Research Assistant</strong>
@@ -91,7 +91,7 @@ My works have been published in top-tier conferences and journals, including CVP
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="width: 20%; border: 0px solid black; padding: 8px;">
+    <td style="width: 18%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/GTVertical_RGB.png" alt="epoch_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">Teaching Assistant</strong>
@@ -113,7 +113,7 @@ My works have been published in top-tier conferences and journals, including CVP
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="width: 20%; border: 0px solid black; padding: 8px;">
+    <td style="width: 18%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/epoch_logo.png" alt="epoch_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">Research Assistant</strong>
@@ -126,7 +126,7 @@ My works have been published in top-tier conferences and journals, including CVP
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="width: 20%; border: 0px solid black; padding: 8px;">
+    <td style="width: 18%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/NYCU_logo_adjusted.png" alt="NYCU_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">Research Assistant</strong>
@@ -138,7 +138,7 @@ My works have been published in top-tier conferences and journals, including CVP
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="width: 20%; border: 0px solid black; padding: 8px;">
+    <td style="width: 18%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/AS_logo.png" alt="AS_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">Research Assistant</strong>
@@ -151,7 +151,7 @@ My works have been published in top-tier conferences and journals, including CVP
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="width: 20%; border: 0px solid black; padding: 8px;">
+    <td style="width: 18%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/Ne_icon.png" alt="NL_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">Applied Scientist</strong>
@@ -164,7 +164,7 @@ My works have been published in top-tier conferences and journals, including CVP
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="width: 20%; border: 0px solid black; padding: 8px;">
+    <td style="width: 18%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/Stylins_logo.png" alt="stylins_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">Founder & CEO</strong>
@@ -177,7 +177,7 @@ My works have been published in top-tier conferences and journals, including CVP
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="width: 20%; border: 0px solid black; padding: 8px;">
+    <td style="width: 18%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/perfect_logo2.png" alt="perfect_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">Machine Learning Engineer</strong>
@@ -190,7 +190,7 @@ My works have been published in top-tier conferences and journals, including CVP
 <!-- 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="width: 20%; border: 0px solid black; padding: 8px;">
+    <td style="width: 18%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/NCTU_logo_chinese.jpeg" alt="NCTU_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">Research Assistant</strong>
@@ -203,7 +203,7 @@ My works have been published in top-tier conferences and journals, including CVP
 
 <!-- <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="width: 20%; border: 0px solid black; padding: 8px;">
+    <td style="width: 18%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/NCTU_logo_chinese.jpeg" alt="NCTU_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">Student Researcher</strong>
@@ -219,7 +219,7 @@ My works have been published in top-tier conferences and journals, including CVP
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="width: 20%; border: 0px solid black; padding: 8px;">
+    <td style="width: 18%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/GTVertical_RGB.png" alt="epoch_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">Ph.D., School of Interactive Computing</strong>
@@ -232,7 +232,7 @@ My works have been published in top-tier conferences and journals, including CVP
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="width: 20%; border: 0px solid black; padding: 8px;">
+    <td style="width: 18%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/NYCU_logo_adjusted.png" alt="NCTU_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">M.S., Institute of Electronics</strong>
@@ -245,7 +245,7 @@ My works have been published in top-tier conferences and journals, including CVP
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="width: 20%; border: 0px solid black; padding: 8px;">
+    <td style="width: 18%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/NCTU_logo_chinese.jpeg" alt="NCTU_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">B.S., Department of Electrophysics</strong>
