@@ -81,7 +81,7 @@ My works have been published in top-tier conferences and journals, including CVP
     <td style="width: 20%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/GTVertical_RGB.png" alt="epoch_logo">
     </td>
-    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Volunteer Research Assistant</strong>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">Volunteer Research Assistant</strong>
     <br><span style="font-size: 16px;">
     <a href="https://www.shi-labs.com/" target="_blank">SHI Labs</a> in <a href="https://www.gatech.edu/" target="_blank"> Georgia Tech</a> in Atlanta 🇺🇸</span>
     <br><span style="font-size: 14px;">Jun. 2024 - Present</span>
@@ -94,7 +94,7 @@ My works have been published in top-tier conferences and journals, including CVP
     <td style="width: 20%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/GTVertical_RGB.png" alt="epoch_logo">
     </td>
-    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Teaching Assistant</strong>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">Teaching Assistant</strong>
     <br><span style="font-size: 16px;">
     <a href="https://www.gatech.edu/" target="_blank"> Georgia Tech</a> in Atlanta 🇺🇸</span>
     <br>
@@ -116,7 +116,7 @@ My works have been published in top-tier conferences and journals, including CVP
     <td style="width: 20%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/epoch_logo.png" alt="epoch_logo">
     </td>
-    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Research Assistant</strong>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">Research Assistant</strong>
     <br><span style="font-size: 16px;">
     <a href="https://epoch.org.tw/en/" target="_blank">Epoch Foundation</a> in Taiwan 🇹🇼</span>
     <br><span style="font-size: 14px;">Jul. 2023 - Jun. 2024</span>
@@ -129,7 +129,7 @@ My works have been published in top-tier conferences and journals, including CVP
     <td style="width: 20%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/NYCU_logo_adjusted.png" alt="NYCU_logo">
     </td>
-    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Research Assistant</strong>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">Research Assistant</strong>
     <br><span style="font-size: 16px;"> <a href="https://basiclab.lab.nycu.edu.tw/new/index.html" target="_blank">Basic Lab</a> in <a href="https://www.nycu.edu.tw/nycu/en/index" target="_blank">National Yang Ming Chiao Tung University</a> in Taiwan 🇹🇼</span>
     <br><span style="font-size: 14px;">Aug. 2023 - Jun. 2024</span>
     </td>
@@ -141,7 +141,7 @@ My works have been published in top-tier conferences and journals, including CVP
     <td style="width: 20%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/AS_logo.png" alt="AS_logo">
     </td>
-    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Research Assistant</strong>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">Research Assistant</strong>
     <br><span style="font-size: 16px;"> <a href="https://basiclab.lab.nycu.edu.tw/new/index.html" target="_blank">Basic Lab</a> in 
     <a href="https://www.sinica.edu.tw/en" target="_blank">Academia Sinica</a> in Taiwan 🇹🇼</span>
     <br><span style="font-size: 14px;">Mar. 2023 - Jul. 2023</span>
@@ -154,7 +154,7 @@ My works have been published in top-tier conferences and journals, including CVP
     <td style="width: 20%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/Ne_icon.png" alt="NL_logo">
     </td>
-    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Applied Scientist</strong>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">Applied Scientist</strong>
     <br><span style="font-size: 16px;">
     <a href="https://neurons-lab.com" target="_blank">Neurons Lab</a> in London 🇬🇧</span>
     <br><span style="font-size: 14px;">Mar. 2023 - Mar. 2024</span>
@@ -167,7 +167,7 @@ My works have been published in top-tier conferences and journals, including CVP
     <td style="width: 20%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/Stylins_logo.png" alt="stylins_logo">
     </td>
-    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Founder & CEO</strong>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">Founder & CEO</strong>
     <br><span style="font-size: 16px;">
     <a href="https://stylins.ai/" target="_blank">Stylins.ai</a> in Taiwan 🇹🇼</span>
     <br><span style="font-size: 14px;">Nov. 2021 - Feb. 2023</span>
@@ -180,7 +180,7 @@ My works have been published in top-tier conferences and journals, including CVP
     <td style="width: 20%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/perfect_logo2.png" alt="perfect_logo">
     </td>
-    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Machine Learning Engineer</strong>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">Machine Learning Engineer</strong>
     <br><span style="font-size: 16px;">
     <a href="https://www.perfectcorp.com/business" target="_blank">Perfect Corp.</a> in Taiwan 🇹🇼</span>
     <br><span style="font-size: 14px;">Sep. 2021 - Oct. 2021</span>
@@ -193,7 +193,7 @@ My works have been published in top-tier conferences and journals, including CVP
     <td style="width: 20%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/NCTU_logo_chinese.jpeg" alt="NCTU_logo">
     </td>
-    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Research Assistant</strong>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">Research Assistant</strong>
     <br><span style="font-size: 16px;">
     <a href="https://aimm.lab.nycu.edu.tw/" target="_blank">AIMM Lab</a> in National Chiao Tung University in Taiwan 🇹🇼</span>
     <br><span style="font-size: 14px;">Jul. 2021 - Aug. 2021</span>
@@ -206,7 +206,7 @@ My works have been published in top-tier conferences and journals, including CVP
     <td style="width: 20%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/NCTU_logo_chinese.jpeg" alt="NCTU_logo">
     </td>
-    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Student Researcher</strong>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">Student Researcher</strong>
     <br><span style="font-size: 16px;">
     <a href="https://aimm.lab.nycu.edu.tw/" target="_blank">AIMM Lab</a> in National Chiao Tung University in Taiwan 🇹🇼</span>
     <br><span style="font-size: 14px;">Jul. 2019 - Jun. 2021</span>
@@ -222,7 +222,7 @@ My works have been published in top-tier conferences and journals, including CVP
     <td style="width: 20%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/GTVertical_RGB.png" alt="epoch_logo">
     </td>
-    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">Ph.D., School of Interactive Computing</strong>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">Ph.D., School of Interactive Computing</strong>
     <br><span style="font-size: 16px;">
     Georgia Institute of Technology in United States</span>
     <br><span style="font-size: 14px;">Aug. 2024 - Present</span>
@@ -235,7 +235,7 @@ My works have been published in top-tier conferences and journals, including CVP
     <td style="width: 20%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/NYCU_logo_adjusted.png" alt="NCTU_logo">
     </td>
-    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">M.S., Institute of Electronics</strong>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">M.S., Institute of Electronics</strong>
     <br><span style="font-size: 16px;">National Yang Ming Chiao Tung University in Taiwan</span>
     <br><span style="font-size: 14px;">Sep. 2020 - Jul. 2021</span>
     <br> <em> Accepted as the 1 year program with funding $1,300 </em>
@@ -248,7 +248,7 @@ My works have been published in top-tier conferences and journals, including CVP
     <td style="width: 20%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/NCTU_logo_chinese.jpeg" alt="NCTU_logo">
     </td>
-    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 20px;">B.S., Department of Electrophysics</strong>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">B.S., Department of Electrophysics</strong>
     <br><span style="font-size: 16px;">National Chiao Tung University @ Taiwan</span>
     <br><span style="font-size: 14px;">Sep. 2016 - Jun. 2020</span>
     <br> <em> Ranked the 1<sup>st</sup> place in class </em>
