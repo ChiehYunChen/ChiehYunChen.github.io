@@ -126,7 +126,7 @@ My works have been published in top-tier conferences and journals, including CVP
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="width: 18%; border: 0px solid black; padding: 8px;">
+    <td style="width: 18%; border: 0px solid black; padding: 12px;">
       <img src="../images/logo/NYCU_logo_adjusted.png" alt="NYCU_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">Research Assistant</strong>
@@ -138,7 +138,7 @@ My works have been published in top-tier conferences and journals, including CVP
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="width: 18%; border: 0px solid black; padding: 8px;">
+    <td style="width: 18%; border: 0px solid black; padding: 12px;">
       <img src="../images/logo/AS_logo.png" alt="AS_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">Research Assistant</strong>
@@ -151,7 +151,7 @@ My works have been published in top-tier conferences and journals, including CVP
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="width: 18%; border: 0px solid black; padding: 8px;">
+    <td style="width: 18%; border: 0px solid black; padding: 12px;">
       <img src="../images/logo/Ne_icon.png" alt="NL_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">Applied Scientist</strong>
@@ -177,7 +177,7 @@ My works have been published in top-tier conferences and journals, including CVP
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="width: 18%; border: 0px solid black; padding: 8px;">
+    <td style="width: 18%; border: 0px solid black; padding: 12px;">
       <img src="../images/logo/perfect_logo2.png" alt="perfect_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">Machine Learning Engineer</strong>
@@ -232,7 +232,7 @@ My works have been published in top-tier conferences and journals, including CVP
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
-    <td style="width: 18%; border: 0px solid black; padding: 8px;">
+    <td style="width: 18%; border: 0px solid black; padding: 12px;">
       <img src="../images/logo/NYCU_logo_adjusted.png" alt="NCTU_logo">
     </td>
     <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">M.S., Institute of Electronics</strong>
