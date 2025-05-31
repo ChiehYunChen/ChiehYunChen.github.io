@@ -159,15 +159,3 @@ author_profile: true
 - Mentorship
   * [Project TYRA (Taiwanese Young Researcher Association)](https://sites.google.com/view/projecttyra/home), Fall 2025
   <br> Mentoring 1 Taiwanese student to apply for PhD program in USA (Admitted to UT Austin)
-
-
-    <!-- * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2024
-  * The European Conference on Computer Vision (ECCV): 2024
-  * The Conference on Neural Information Processing Systems (NeurIPS): 2024
-  * International Conference on Machine Learning (ICML): 2025
-  * IEEE International Conference on Multimedia and Expo (ICME): 2024  -->
-
-    <!-- * IEEE Transactions on Neural Networks and Learning Systems (TNNLS): 2023
-  * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT): 2021, 2022, 2023
-  * ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM): 2021, 2023
-  * IEEE Transactions on Multimedia (TMM): 2021, 2022, 2024 -->
