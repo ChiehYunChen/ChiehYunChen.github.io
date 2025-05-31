@@ -10,19 +10,20 @@ redirect_from:
 
 <!-- I received the MS from the Institute of Electronics at National (Yang Ming) Chiao Tung University in 2021, advised by [Prof. Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/) and [Prof. Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/) and BS from the Department of Electrophysics at National Chiao Tung University in 2020.  -->
 
-I am currently a Ph.D. student in Georgia Tech, advised by [Prof. Humphrey Shi](https://www.humphreyshi.com/), where I focus on user-centric tasks within Vision-related fields. Previously, I earned my M.S. in 2021 and B.S. in 2020 from National Chiao Tung University, advised by [Prof. Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/) and [Prof. Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/). Until 2023, my research focused on Image and Video Synthesis and Editing in Fashion, particularly Virtual Clothing Try-on.
+I am currently a Ph.D. student in Georgia Tech, advised by [Prof. Humphrey Shi](https://www.humphreyshi.com/), where I focus on user-centric tasks within Vision-related fields, i.e., agent, generative models. Previously, I earned my M.S. in 2021 and B.S. in 2020 from National Chiao Tung University, advised by [Prof. Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/) and [Prof. Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/). Until 2023, my research focused on Image and Video Synthesis and Editing in Fashion, particularly Virtual Clothing Try-on.
 
-I am deeply passionate about developing Aritifical General Intellegence and leveraging its transformative potential to create impactful, user-centric solutions.
 
-My works have been published in top-tier conferences and journals, including CVPR, ICCV, NeurIPS, ACMMM, TNNLS, and ACM CSUR. I have served as an invited reviewer for CVPR, ECCV, NeurIPS, IEEE TNNLS, IEEE TMM, IEEE TCSVT, and ACM ToMM.
+I am deeply passionate about developing Artificial Machine Intelligence and leveraging its transformative potential to build impactful, user-centric businesses.
 
 🤗 Feel free to contact me: 📩 [cychenisme@gmail.com](mailto:cychenisme@gmail.com). 
 <br>Let's have a (virtual) coffee chat about interesting topics.
 
+<!-- My works have been published in top-tier conferences and journals, including CVPR, ICCV, NeurIPS, ACMMM, TNNLS, and ACM CSUR. I have served as an invited reviewer for CVPR, ECCV, NeurIPS, IEEE TNNLS, IEEE TMM, IEEE TCSVT, and ACM ToMM. -->
+
 <!-- A data-driven personal website -->
 
 ### Recent News 🔥
-- [Mar. 2025] Upcoming Summer 2025 Research Internship @ [Adobe FireFly team](https://www.adobe.com/products/firefly.html)
+- [May 2025] Machine Learning Research Intern @ [Adobe FireFly](https://www.adobe.com/products/firefly.html)
 - [Sep. 2024] One first-author paper "[A Cat Is A Cat (Not A Dog!): Unraveling Information Mix-ups in Text-to-Image Encoders through Causal Analysis and Embedding Optimization](http://arxiv.org/abs/2410.00321)" got accepted at [NeurIPS'24](https://neurips.cc/)! Let's meet at Vancouver 🇨🇦
 - [Jun. 2024] I am excited to join the [SHI Labs](https://www.shi-labs.com/) as a Ph.D. student in Atlanta 🇺🇸
 - [Jun. 2024] Served as a reviewer for 6 papers submitted to NeurIPS'24
