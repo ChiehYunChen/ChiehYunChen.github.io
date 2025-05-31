@@ -141,9 +141,11 @@ author_profile: true
 ## Academic Services
 
 - Conference Reviewer
+  
   CVPR'24; ECCV'24; ICCV'25; NeurIPS'24; ICML'25; ICME'24
 
 - Journal Reviewer
+  
   TNNLS'23; TCSVT'21,22,23; TOMM'21,23; TMM'21,22,24
 
 - Teaching Assistant
