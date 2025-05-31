@@ -92,6 +92,19 @@ I am deeply passionate about developing Artificial Machine Intelligence and leve
 
 <table style="width: 100%; border-collapse: collapse; border: 0;">
   <tr>
+    <td style="width: 18%; border: 0px solid black; padding: 3px;">
+      <img src="../images/logo/Adb_logo.png" alt="adobe_logo">
+    </td>
+    <td style="border: 0px solid black; padding: 8px;"><strong style="font-size: 18px;">Machine Learning Research Intern</strong>
+    <br><span style="font-size: 16px;">
+    <a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a> in San Jose 🇺🇸</span>
+    <br><span style="font-size: 14px;">May 2025 - Present</span>
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%; border-collapse: collapse; border: 0;">
+  <tr>
     <td style="width: 18%; border: 0px solid black; padding: 8px;">
       <img src="../images/logo/GTVertical_RGB.png" alt="epoch_logo">
     </td>
