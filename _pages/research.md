@@ -142,20 +142,9 @@ author_profile: true
 
 - Conference Reviewer
   CVPR'24; ECCV'24; ICCV'25; NeurIPS'24; ICML'25; ICME'24
-  <!-- * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2024
-  * The European Conference on Computer Vision (ECCV): 2024
-  * The Conference on Neural Information Processing Systems (NeurIPS): 2024
-  * International Conference on Machine Learning (ICML): 2025
-  * IEEE International Conference on Multimedia and Expo (ICME): 2024  -->
 
 - Journal Reviewer
   TNNLS'23; TCSVT'21,22,23; TOMM'21,23; TMM'21,22,24
-
-  <!-- * IEEE Transactions on Neural Networks and Learning Systems (TNNLS): 2023
-  * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT): 2021, 2022, 2023
-  * ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM): 2021, 2023
-  * IEEE Transactions on Multimedia (TMM): 2021, 2022, 2024 -->
-
 
 - Teaching Assistant
   * [OMSCS6476 Computer Vision](https://docs.google.com/spreadsheets/d/e/2PACX-1vQdFbC7_8UEsS_UkKhAmKfYgO5SnhQ_9YIn5WRxz_9KxmOzeWF32ApdLeA32yRkDDIz_Sb_4zK2HvKU/pubhtml), Spring 2025, Georgia Institute of Technology
@@ -170,3 +159,15 @@ author_profile: true
 - Mentorship
   * [Project TYRA (Taiwanese Young Researcher Association)](https://sites.google.com/view/projecttyra/home), Fall 2025
   <br> Mentoring 1 Taiwanese student to apply for PhD program in USA (Admitted to UT Austin)
+
+
+    <!-- * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2024
+  * The European Conference on Computer Vision (ECCV): 2024
+  * The Conference on Neural Information Processing Systems (NeurIPS): 2024
+  * International Conference on Machine Learning (ICML): 2025
+  * IEEE International Conference on Multimedia and Expo (ICME): 2024  -->
+
+    <!-- * IEEE Transactions on Neural Networks and Learning Systems (TNNLS): 2023
+  * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT): 2021, 2022, 2023
+  * ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM): 2021, 2023
+  * IEEE Transactions on Multimedia (TMM): 2021, 2022, 2024 -->
