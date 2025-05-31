@@ -140,11 +140,19 @@ author_profile: true
 
 ## Academic Services
 
-- <strong>Conference Reviewer</strong>
-  CVPR'24; ECCV'24; ICCV'25; NeurIPS'24; ICML'25; ICME'24
+- Conference Reviewer
+  * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2024
+  * The European Conference on Computer Vision (ECCV): 2024
+  * The International Conference on Computer Vision (ICCV): 2025
+  * The Conference on Neural Information Processing Systems (NeurIPS): 2024
+  * International Conference on Machine Learning (ICML):2025
+  * IEEE International Conference on Multimedia and Expo (ICME): 2024
+- Journal Reviewer
+  * IEEE Transactions on Neural Networks and Learning Systems (TNNLS): 2023
+  * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT): 2021, 2022, 2023
+  * ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM): 2021, 2023
+  * IEEE Transactions on Multimedia (TMM): 2021, 2022, 2024
 
-- <strong>Journal Reviewer</strong>
-  TNNLS'23; TCSVT'21,22,23; TOMM'21,23; TMM'21,22,24
 
 - Teaching Assistant
   * [OMSCS6476 Computer Vision](https://docs.google.com/spreadsheets/d/e/2PACX-1vQdFbC7_8UEsS_UkKhAmKfYgO5SnhQ_9YIn5WRxz_9KxmOzeWF32ApdLeA32yRkDDIz_Sb_4zK2HvKU/pubhtml), Spring 2025, Georgia Institute of Technology
